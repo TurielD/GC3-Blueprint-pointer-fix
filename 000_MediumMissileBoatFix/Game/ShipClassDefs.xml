@@ -752,7 +752,7 @@ xsi:noNamespaceSchemaLocation="../Schema/ShipClassDefs.xsd">
     <ShipDesign>Terran_Battleship_01T</ShipDesign>
     <AIShipClass>CapitalShip</AIShipClass>
     <StrategicIcon>Battleship</StrategicIcon>
-    <BlueprintDef>DestroyerDBlueprint</BlueprintDef>
+    <BlueprintDef>BattleshipDBlueprint</BlueprintDef>
   </ShipClass>
  
   <!-- Begin Ship -->
@@ -1023,6 +1023,21 @@ xsi:noNamespaceSchemaLocation="../Schema/ShipClassDefs.xsd">
     <AIShipClass>Constructor</AIShipClass>
     <StrategicIcon>Constructor</StrategicIcon>
     <BlueprintDef>ConstructorBlueprint</BlueprintDef>
+  </ShipClass>
+ 
+  <!-- Begin Ship -->
+ 
+  <ShipClass>
+    <InternalName>TerranBasicConstructor</InternalName>
+    <DisplayName>TerranBasicConstructor_Class_Name</DisplayName>
+    <Description>TerranBasicConstructor_Dec</Description>
+    <ThumbnailOverride>Terran_Constuctor_Alpha_01.png</ThumbnailOverride>
+    <ShipHullType>Cargo</ShipHullType>
+    <ShipRule>Constructor</ShipRule>
+    <ShipDesign>Terran_Constructor_01T</ShipDesign>
+    <AIShipClass>Constructor</AIShipClass>
+    <StrategicIcon>Constructor</StrategicIcon>
+    <StaticBlueprintDef>BasicConstructorBlueprint</StaticBlueprintDef>
   </ShipClass>
  
   <!-- Begin Ship -->
@@ -2347,7 +2362,7 @@ xsi:noNamespaceSchemaLocation="../Schema/ShipClassDefs.xsd">
     <ShipDesign>Drengin_Battleship_01T</ShipDesign>
     <AIShipClass>CapitalShip</AIShipClass>
     <StrategicIcon>Battleship</StrategicIcon>
-    <BlueprintDef>DestroyerDBlueprint</BlueprintDef>
+    <BlueprintDef>BattleshipDBlueprint</BlueprintDef>
   </ShipClass>
  
   <!-- Begin Ship -->
@@ -2618,6 +2633,21 @@ xsi:noNamespaceSchemaLocation="../Schema/ShipClassDefs.xsd">
     <AIShipClass>Constructor</AIShipClass>
     <StrategicIcon>Constructor</StrategicIcon>
     <BlueprintDef>ConstructorBlueprint</BlueprintDef>
+  </ShipClass>
+ 
+  <!-- Begin Ship -->
+ 
+  <ShipClass>
+    <InternalName>DrenginBasicConstructor</InternalName>
+    <DisplayName>DrenginBasicConstructor_Class_Name</DisplayName>
+    <Description>DrenginBasicConstructor_Dec</Description>
+    <ThumbnailOverride>Temp_Drengin_Constructor_Alpha_01.png</ThumbnailOverride>
+    <ShipHullType>Cargo</ShipHullType>
+    <ShipRule>Constructor</ShipRule>
+    <ShipDesign>Drengin_Constructor_01T</ShipDesign>
+    <AIShipClass>Constructor</AIShipClass>
+    <StrategicIcon>Constructor</StrategicIcon>
+    <StaticBlueprintDef>BasicConstructorBlueprint</StaticBlueprintDef>
   </ShipClass>
  
   <!-- Begin Ship -->
@@ -3881,7 +3911,7 @@ xsi:noNamespaceSchemaLocation="../Schema/ShipClassDefs.xsd">
     <ShipDesign>Altarian_Battleship_01T</ShipDesign>
     <AIShipClass>Assault</AIShipClass>
     <StrategicIcon>Battleship</StrategicIcon>
-    <BlueprintDef>DestroyerDBlueprint</BlueprintDef>
+    <BlueprintDef>BattleshipDBlueprint</BlueprintDef>
   </ShipClass>
  
   <!-- Begin Ship -->
@@ -4152,6 +4182,21 @@ xsi:noNamespaceSchemaLocation="../Schema/ShipClassDefs.xsd">
     <AIShipClass>Constructor</AIShipClass>
     <StrategicIcon>Constructor</StrategicIcon>
     <BlueprintDef>ConstructorBlueprint</BlueprintDef>
+  </ShipClass>
+ 
+  <!-- Begin Ship -->
+ 
+  <ShipClass>
+    <InternalName>AltarianBasicConstructor</InternalName>
+    <DisplayName>AltarianBasicConstructor_Class_Name</DisplayName>
+    <Description>AltarianBasicConstructor_Dec</Description>
+    <ThumbnailOverride>Altarian_Constructor_01T.png</ThumbnailOverride>
+    <ShipHullType>Cargo</ShipHullType>
+    <ShipRule>Constructor</ShipRule>
+    <ShipDesign>Altarian_Constructor_01T</ShipDesign>
+    <AIShipClass>Constructor</AIShipClass>
+    <StrategicIcon>Constructor</StrategicIcon>
+    <StaticBlueprintDef>BasicConstructorBlueprint</StaticBlueprintDef>
   </ShipClass>
  
   <!-- Begin Ship -->
@@ -5348,7 +5393,7 @@ xsi:noNamespaceSchemaLocation="../Schema/ShipClassDefs.xsd">
     <ShipDesign>Iridium_Battleship_01T</ShipDesign>
     <AIShipClass>Assault</AIShipClass>
     <StrategicIcon>Battleship</StrategicIcon>
-    <BlueprintDef>DestroyerDBlueprint</BlueprintDef>
+    <BlueprintDef>BattleshipDBlueprint</BlueprintDef>
   </ShipClass>
  
   <!-- Begin Ship -->
@@ -5619,6 +5664,21 @@ xsi:noNamespaceSchemaLocation="../Schema/ShipClassDefs.xsd">
     <AIShipClass>Constructor</AIShipClass>
     <StrategicIcon>Constructor</StrategicIcon>
     <BlueprintDef>ConstructorBlueprint</BlueprintDef>
+  </ShipClass>
+ 
+  <!-- Begin Ship -->
+ 
+  <ShipClass>
+    <InternalName>IridiumBasicConstructor</InternalName>
+    <DisplayName>IridiumBasicConstructor_Class_Name</DisplayName>
+    <Description>IridiumBasicConstructor_Dec</Description>
+    <ThumbnailOverride>Iridium_Constructor_01T.png</ThumbnailOverride>
+    <ShipHullType>Cargo</ShipHullType>
+    <ShipRule>Constructor</ShipRule>
+    <ShipDesign>Iridium_Constructor_01T</ShipDesign>
+    <AIShipClass>Constructor</AIShipClass>
+    <StrategicIcon>Constructor</StrategicIcon>
+    <StaticBlueprintDef>BasicConstructorBlueprint</StaticBlueprintDef>
   </ShipClass>
  
   <!-- Begin Ship -->
@@ -6559,7 +6619,7 @@ xsi:noNamespaceSchemaLocation="../Schema/ShipClassDefs.xsd">
     <ShipDesign>Krynn_Ranger_01T</ShipDesign>
     <AIShipClass>Assault</AIShipClass>
     <StrategicIcon>Ranger</StrategicIcon>
-    <BlueprintDef>DRangerLBlueprint</BlueprintDef>
+    <BlueprintDef>RangerLBlueprint</BlueprintDef>
   </ShipClass>
  
   <!-- Begin Ship -->
@@ -6813,7 +6873,7 @@ xsi:noNamespaceSchemaLocation="../Schema/ShipClassDefs.xsd">
     <ShipDesign>Krynn_Battleship_01T</ShipDesign>
     <AIShipClass>Assault</AIShipClass>
     <StrategicIcon>Battleship</StrategicIcon>
-    <BlueprintDef>DestroyerDBlueprint</BlueprintDef>
+    <BlueprintDef>BattleshipDBlueprint</BlueprintDef>
   </ShipClass>
  
   <!-- Begin Ship -->
@@ -7084,6 +7144,21 @@ xsi:noNamespaceSchemaLocation="../Schema/ShipClassDefs.xsd">
     <AIShipClass>Constructor</AIShipClass>
     <StrategicIcon>Constructor</StrategicIcon>
     <BlueprintDef>ConstructorBlueprint</BlueprintDef>
+  </ShipClass>
+ 
+  <!-- Begin Ship -->
+ 
+  <ShipClass>
+    <InternalName>KrynnBasicConstructor</InternalName>
+    <DisplayName>KrynnBasicConstructor_Class_Name</DisplayName>
+    <Description>KrynnBasicConstructor_Dec</Description>
+    <ThumbnailOverride>Krynn_Constructor_01T.png</ThumbnailOverride>
+    <ShipHullType>Cargo</ShipHullType>
+    <ShipRule>Constructor</ShipRule>
+    <ShipDesign>Krynn_Constructor_01T</ShipDesign>
+    <AIShipClass>Constructor</AIShipClass>
+    <StrategicIcon>Constructor</StrategicIcon>
+    <StaticBlueprintDef>BasicConstructorBlueprint</StaticBlueprintDef>
   </ShipClass>
  
   <!-- Begin Ship -->
@@ -8280,7 +8355,7 @@ xsi:noNamespaceSchemaLocation="../Schema/ShipClassDefs.xsd">
     <ShipDesign>Yor_Battleship_01T</ShipDesign>
     <AIShipClass>Assault</AIShipClass>
     <StrategicIcon>Battleship</StrategicIcon>
-    <BlueprintDef>DestroyerDBlueprint</BlueprintDef>
+    <BlueprintDef>BattleshipDBlueprint</BlueprintDef>
   </ShipClass>
  
   <!-- Begin Ship -->
@@ -8551,6 +8626,21 @@ xsi:noNamespaceSchemaLocation="../Schema/ShipClassDefs.xsd">
     <AIShipClass>Constructor</AIShipClass>
     <StrategicIcon>Constructor</StrategicIcon>
     <BlueprintDef>ConstructorBlueprint</BlueprintDef>
+  </ShipClass>
+ 
+  <!-- Begin Ship -->
+ 
+  <ShipClass>
+    <InternalName>YorBasicConstructor</InternalName>
+    <DisplayName>YorBasicConstructor_Class_Name</DisplayName>
+    <Description>YorBasicConstructor_Dec</Description>
+    <ThumbnailOverride>Yor_Constructor_01T.png</ThumbnailOverride>
+    <ShipHullType>Cargo</ShipHullType>
+    <ShipRule>Constructor</ShipRule>
+    <ShipDesign>Yor_Constructor_01T</ShipDesign>
+    <AIShipClass>Constructor</AIShipClass>
+    <StrategicIcon>Constructor</StrategicIcon>
+    <StaticBlueprintDef>BasicConstructorBlueprint</StaticBlueprintDef>
   </ShipClass>
  
   <!-- Begin Ship -->
@@ -9747,7 +9837,7 @@ xsi:noNamespaceSchemaLocation="../Schema/ShipClassDefs.xsd">
     <ShipDesign>Iconian_Battleship_01T</ShipDesign>
     <AIShipClass>Assault</AIShipClass>
     <StrategicIcon>Battleship</StrategicIcon>
-    <BlueprintDef>DestroyerDBlueprint</BlueprintDef>
+    <BlueprintDef>BattleshipDBlueprint</BlueprintDef>
   </ShipClass>
  
   <!-- Begin Ship -->
@@ -10018,6 +10108,21 @@ xsi:noNamespaceSchemaLocation="../Schema/ShipClassDefs.xsd">
     <AIShipClass>Constructor</AIShipClass>
     <StrategicIcon>Constructor</StrategicIcon>
     <BlueprintDef>ConstructorBlueprint</BlueprintDef>
+  </ShipClass>
+ 
+  <!-- Begin Ship -->
+ 
+  <ShipClass>
+    <InternalName>IconianBasicConstructor</InternalName>
+    <DisplayName>IconianBasicConstructor_Class_Name</DisplayName>
+    <Description>IconianBasicConstructor_Dec</Description>
+    <ThumbnailOverride>Iconian_Constructor_01T.png</ThumbnailOverride>
+    <ShipHullType>Cargo</ShipHullType>
+    <ShipRule>Constructor</ShipRule>
+    <ShipDesign>Iconian_Constructor_01T</ShipDesign>
+    <AIShipClass>Constructor</AIShipClass>
+    <StrategicIcon>Constructor</StrategicIcon>
+    <StaticBlueprintDef>BasicConstructorBlueprint</StaticBlueprintDef>
   </ShipClass>
  
   <!-- Begin Ship -->
@@ -11093,7 +11198,7 @@ xsi:noNamespaceSchemaLocation="../Schema/ShipClassDefs.xsd">
     <ShipDesign>Thalan_Battleship_01T</ShipDesign>
     <AIShipClass>Assault</AIShipClass>
     <StrategicIcon>Battleship</StrategicIcon>
-    <BlueprintDef>DestroyerDBlueprint</BlueprintDef>
+    <BlueprintDef>BattleshipDBlueprint</BlueprintDef>
   </ShipClass>
  
   <!-- Begin Ship -->
@@ -11364,6 +11469,21 @@ xsi:noNamespaceSchemaLocation="../Schema/ShipClassDefs.xsd">
     <AIShipClass>Constructor</AIShipClass>
     <StrategicIcon>Constructor</StrategicIcon>
     <BlueprintDef>ConstructorBlueprint</BlueprintDef>
+  </ShipClass>
+ 
+  <!-- Begin Ship -->
+ 
+  <ShipClass>
+    <InternalName>ThalanBasicConstructor</InternalName>
+    <DisplayName>ThalanBasicConstructor_Class_Name</DisplayName>
+    <Description>ThalanBasicConstructor_Dec</Description>
+    <ThumbnailOverride>Thalan_Constructor_01T.png</ThumbnailOverride>
+    <ShipHullType>Cargo</ShipHullType>
+    <ShipRule>Constructor</ShipRule>
+    <ShipDesign>Thalan_Constructor_01T</ShipDesign>
+    <AIShipClass>Constructor</AIShipClass>
+    <StrategicIcon>Constructor</StrategicIcon>
+    <StaticBlueprintDef>BasicConstructorBlueprint</StaticBlueprintDef>
   </ShipClass>
  
   <!-- Begin Ship -->
@@ -11846,10 +11966,10 @@ xsi:noNamespaceSchemaLocation="../Schema/ShipClassDefs.xsd">
     <InternalName>PirateScout</InternalName>
     <DisplayName>PirateScout_Class_Name</DisplayName>
     <Description>PirateScout_Dec</Description>
-    <ThumbnailOverride>Thalan_Scout_01T.png</ThumbnailOverride>
+    <ThumbnailOverride>Pirate_Scout_01T.png</ThumbnailOverride>
     <ShipHullType>Tiny</ShipHullType>
     <ShipRule>Scout</ShipRule>
-    <ShipDesign>Thalan_Scout_01T</ShipDesign>
+    <ShipDesign>Pirate_Scout_01T</ShipDesign>
     <AIShipClass>Scout</AIShipClass>
     <StrategicIcon>Scout</StrategicIcon>
     <BlueprintDef>ScoutBlueprint</BlueprintDef>
@@ -11861,10 +11981,10 @@ xsi:noNamespaceSchemaLocation="../Schema/ShipClassDefs.xsd">
     <InternalName>ProtoTypePirateScout</InternalName>
     <DisplayName>ProtoTypePirateScout_Class_Name</DisplayName>
     <Description>ProtoTypePirateScout_Dec</Description>
-    <ThumbnailOverride>Thalan_Scout_01T.png</ThumbnailOverride>
+    <ThumbnailOverride>Pirate_Scout_01T.png</ThumbnailOverride>
     <ShipHullType>Tiny</ShipHullType>
     <ShipRule>Scout</ShipRule>
-    <ShipDesign>Thalan_Scout_01T</ShipDesign>
+    <ShipDesign>Pirate_Scout_01T</ShipDesign>
     <AIShipClass>Scout</AIShipClass>
     <StrategicIcon>Scout</StrategicIcon>
     <BlueprintDef>ProtoTypeScoutBlueprint</BlueprintDef>
@@ -11876,10 +11996,10 @@ xsi:noNamespaceSchemaLocation="../Schema/ShipClassDefs.xsd">
     <InternalName>PirateSniper</InternalName>
     <DisplayName>PirateSniper_Class_Name</DisplayName>
     <Description>PirateSniper_Dec</Description>
-    <ThumbnailOverride>Pirate_Tiny_02T.png</ThumbnailOverride>
+    <ThumbnailOverride>Pirate_Sniper_01T.png</ThumbnailOverride>
     <ShipHullType>Tiny</ShipHullType>
     <ShipRule>FavorBeam</ShipRule>
-    <ShipDesign>Pirate_Tiny_02T</ShipDesign>
+    <ShipDesign>Pirate_Sniper_01T</ShipDesign>
     <AIShipClass>Assault</AIShipClass>
     <StrategicIcon>Sniper</StrategicIcon>
     <BlueprintDef>SniperBlueprint</BlueprintDef>
@@ -11891,10 +12011,10 @@ xsi:noNamespaceSchemaLocation="../Schema/ShipClassDefs.xsd">
     <InternalName>ProtoTypePirateSniper</InternalName>
     <DisplayName>ProtoTypePirateSniper_Class_Name</DisplayName>
     <Description>ProtoTypePirateSniper_Dec</Description>
-    <ThumbnailOverride>Pirate_Tiny_02T.png</ThumbnailOverride>
+    <ThumbnailOverride>Pirate_Sniper_01T.png</ThumbnailOverride>
     <ShipHullType>Tiny</ShipHullType>
     <ShipRule>FavorBeam</ShipRule>
-    <ShipDesign>Pirate_Tiny_02T</ShipDesign>
+    <ShipDesign>Pirate_Sniper_01T</ShipDesign>
     <AIShipClass>Assault</AIShipClass>
     <StrategicIcon>Sniper</StrategicIcon>
     <BlueprintDef>ProtoTypeSniperBlueprint</BlueprintDef>
@@ -11906,10 +12026,10 @@ xsi:noNamespaceSchemaLocation="../Schema/ShipClassDefs.xsd">
     <InternalName>AIDefensePirateSniper</InternalName>
     <DisplayName>AIDefensePirateSniper_Class_Name</DisplayName>
     <Description>AIDefensePirateSniper_Dec</Description>
-    <ThumbnailOverride>Pirate_Tiny_02T.png</ThumbnailOverride>
+    <ThumbnailOverride>Pirate_Sniper_01T.png</ThumbnailOverride>
     <ShipHullType>Tiny</ShipHullType>
     <ShipRule>FavorBeam</ShipRule>
-    <ShipDesign>Pirate_Tiny_02T</ShipDesign>
+    <ShipDesign>Pirate_Sniper_01T</ShipDesign>
     <AIOnly>true</AIOnly>
     <AIShipClass>Defender</AIShipClass>
     <StrategicIcon>Sniper</StrategicIcon>
@@ -11922,10 +12042,10 @@ xsi:noNamespaceSchemaLocation="../Schema/ShipClassDefs.xsd">
     <InternalName>PirateBomber</InternalName>
     <DisplayName>PirateBomber_Class_Name</DisplayName>
     <Description>PirateBomber_Dec</Description>
-    <ThumbnailOverride>Pirate_Tiny_01T.png</ThumbnailOverride>
+    <ThumbnailOverride>Pirate_Bomber_01T.png</ThumbnailOverride>
     <ShipHullType>Tiny</ShipHullType>
     <ShipRule>FavorMissile</ShipRule>
-    <ShipDesign>Thalan_Bomber_01T</ShipDesign>
+    <ShipDesign>Pirate_Bomber_01T</ShipDesign>
     <AIShipClass>Assault</AIShipClass>
     <StrategicIcon>Bomber</StrategicIcon>
     <BlueprintDef>BomberBlueprint</BlueprintDef>
@@ -11937,10 +12057,10 @@ xsi:noNamespaceSchemaLocation="../Schema/ShipClassDefs.xsd">
     <InternalName>ProtoTypePirateBomber</InternalName>
     <DisplayName>ProtoTypePirateBomber_Class_Name</DisplayName>
     <Description>ProtoTypePirateBomber_Dec</Description>
-    <ThumbnailOverride>Pirate_Tiny_01T.png</ThumbnailOverride>
+    <ThumbnailOverride>Pirate_Bomber_01T.png</ThumbnailOverride>
     <ShipHullType>Tiny</ShipHullType>
     <ShipRule>FavorMissile</ShipRule>
-    <ShipDesign>Pirate_Tiny_01T</ShipDesign>
+    <ShipDesign>Pirate_Bomber_01T</ShipDesign>
     <AIShipClass>Assault</AIShipClass>
     <StrategicIcon>Bomber</StrategicIcon>
     <BlueprintDef>ProtoTypeBomberBlueprint</BlueprintDef>
@@ -11952,10 +12072,10 @@ xsi:noNamespaceSchemaLocation="../Schema/ShipClassDefs.xsd">
     <InternalName>AIDefensePirateBomber</InternalName>
     <DisplayName>AIDefensePirateBomber_Class_Name</DisplayName>
     <Description>AIDefensePirateBomber_Dec</Description>
-    <ThumbnailOverride>Pirate_Tiny_01T.png</ThumbnailOverride>
+    <ThumbnailOverride>Pirate_Bomber_01T.png</ThumbnailOverride>
     <ShipHullType>Tiny</ShipHullType>
     <ShipRule>FavorMissile</ShipRule>
-    <ShipDesign>Pirate_Tiny_01T</ShipDesign>
+    <ShipDesign>Pirate_Bomber_01T</ShipDesign>
     <AIOnly>true</AIOnly>
     <AIShipClass>Defender</AIShipClass>
     <StrategicIcon>Bomber</StrategicIcon>
@@ -11968,10 +12088,10 @@ xsi:noNamespaceSchemaLocation="../Schema/ShipClassDefs.xsd">
     <InternalName>PirateGuardian</InternalName>
     <DisplayName>PirateGuardian_Class_Name</DisplayName>
     <Description>PirateGuardian_Dec</Description>
-    <ThumbnailOverride>Pirate_Tiny_02T.png</ThumbnailOverride>
+    <ThumbnailOverride>Pirate_Guardian_01T.png</ThumbnailOverride>
     <ShipHullType>Tiny</ShipHullType>
     <ShipRule>FavorKinetic</ShipRule>
-    <ShipDesign>Thalan_Guardian_01T</ShipDesign>
+    <ShipDesign>Pirate_Guardian_01T</ShipDesign>
     <AIShipClass>Assault</AIShipClass>
     <StrategicIcon>Guardian</StrategicIcon>
     <BlueprintDef>GuardianBlueprint</BlueprintDef>
@@ -11983,10 +12103,10 @@ xsi:noNamespaceSchemaLocation="../Schema/ShipClassDefs.xsd">
     <InternalName>ProtoTypePirateGuardian</InternalName>
     <DisplayName>ProtoTypePirateGuardian_Class_Name</DisplayName>
     <Description>ProtoTypePirateGuardian_Dec</Description>
-    <ThumbnailOverride>Pirate_Tiny_02T.png</ThumbnailOverride>
+    <ThumbnailOverride>Pirate_Guardian_01T.png</ThumbnailOverride>
     <ShipHullType>Tiny</ShipHullType>
     <ShipRule>FavorKinetic</ShipRule>
-    <ShipDesign>Thalan_Guardian_01T</ShipDesign>
+    <ShipDesign>Pirate_Guardian_01T</ShipDesign>
     <AIShipClass>Assault</AIShipClass>
     <StrategicIcon>Guardian</StrategicIcon>
     <BlueprintDef>ProtoTypeGuardianBlueprint</BlueprintDef>
@@ -11998,10 +12118,10 @@ xsi:noNamespaceSchemaLocation="../Schema/ShipClassDefs.xsd">
     <InternalName>AIDefensePirateGuardian</InternalName>
     <DisplayName>AIDefensePirateGuardian_Class_Name</DisplayName>
     <Description>AIDefensePirateGuardian_Dec</Description>
-    <ThumbnailOverride>Pirate_Tiny_02T.png</ThumbnailOverride>
+    <ThumbnailOverride>Pirate_Guardian_01T.png</ThumbnailOverride>
     <ShipHullType>Tiny</ShipHullType>
     <ShipRule>FavorKinetic</ShipRule>
-    <ShipDesign>Thalan_Guardian_01T</ShipDesign>
+    <ShipDesign>Pirate_Guardian_01T</ShipDesign>
     <AIOnly>true</AIOnly>
     <AIShipClass>Defender</AIShipClass>
     <StrategicIcon>Guardian</StrategicIcon>
@@ -12014,10 +12134,10 @@ xsi:noNamespaceSchemaLocation="../Schema/ShipClassDefs.xsd">
     <InternalName>PirateKnight</InternalName>
     <DisplayName>PirateKnight_Class_Name</DisplayName>
     <Description>PirateKnight_Dec</Description>
-    <ThumbnailOverride>Pirate_Tiny_01T.png</ThumbnailOverride>
+    <ThumbnailOverride>Pirate_Knight_01T.png</ThumbnailOverride>
     <ShipHullType>Tiny</ShipHullType>
     <ShipRule>Balanced</ShipRule>
-    <ShipDesign>Pirate_Tiny_01T</ShipDesign>
+    <ShipDesign>Pirate_Knight_01T</ShipDesign>
     <AIShipClass>Assault</AIShipClass>
     <StrategicIcon>Knight</StrategicIcon>
     <BlueprintDef>KnightBlueprint</BlueprintDef>
@@ -12029,10 +12149,10 @@ xsi:noNamespaceSchemaLocation="../Schema/ShipClassDefs.xsd">
     <InternalName>AIDefensePirateKnight</InternalName>
     <DisplayName>AIDefensePirateKnight_Class_Name</DisplayName>
     <Description>AIDefensePirateKnight_Dec</Description>
-    <ThumbnailOverride>Pirate_Tiny_01T.png</ThumbnailOverride>
+    <ThumbnailOverride>Pirate_Knight_01T.png</ThumbnailOverride>
     <ShipHullType>Tiny</ShipHullType>
     <ShipRule>Balanced</ShipRule>
-    <ShipDesign>Pirate_Tiny_01T</ShipDesign>
+    <ShipDesign>Pirate_Knight_01T</ShipDesign>
     <AIOnly>true</AIOnly>
     <AIShipClass>Defender</AIShipClass>
     <StrategicIcon>Knight</StrategicIcon>
@@ -12045,10 +12165,10 @@ xsi:noNamespaceSchemaLocation="../Schema/ShipClassDefs.xsd">
     <InternalName>PirateAssaultFighter</InternalName>
     <DisplayName>PirateAssaultFighter_Class_Name</DisplayName>
     <Description>PirateAssaultFighter_Dec</Description>
-    <ThumbnailOverride>Pirate_Tiny_01T.png</ThumbnailOverride>
+    <ThumbnailOverride>Pirate_Sniper_01T.png</ThumbnailOverride>
     <ShipHullType>Tiny</ShipHullType>
     <ShipRule>Balanced</ShipRule>
-    <ShipDesign>Pirate_Tiny_01T</ShipDesign>
+    <ShipDesign>Pirate_Sniper_01T</ShipDesign>
     <AIShipClass>Interceptor</AIShipClass>
     <StrategicIcon>Knight</StrategicIcon>
     <BlueprintDef>AssaultFighterBlueprint</BlueprintDef>
@@ -12060,7 +12180,7 @@ xsi:noNamespaceSchemaLocation="../Schema/ShipClassDefs.xsd">
     <InternalName>PirateDroneInterceptor</InternalName>
     <DisplayName>PirateDroneInterceptor_Class_Name</DisplayName>
     <Description>PirateDroneInterceptor_Dec</Description>
-    <ThumbnailOverride>Thalan_Sniper_01T.png</ThumbnailOverride>
+    <ThumbnailOverride>Terran_Drone_Interceptor_01T.png</ThumbnailOverride>
     <ShipHullType>Tiny</ShipHullType>
     <ShipRule>FavorBeam</ShipRule>
     <ShipDesign>Terran_Drone_Interceptor_01T</ShipDesign>
@@ -12075,7 +12195,7 @@ xsi:noNamespaceSchemaLocation="../Schema/ShipClassDefs.xsd">
     <InternalName>PirateGuardianFighter</InternalName>
     <DisplayName>PirateGuardianFighter_Class_Name</DisplayName>
     <Description>PirateGuardianFighter_Dec</Description>
-    <ThumbnailOverride>Thalan_Guardian_01T.png</ThumbnailOverride>
+    <ThumbnailOverride>Terran_Drone_Guardian_01T.png</ThumbnailOverride>
     <ShipHullType>Tiny</ShipHullType>
     <ShipRule>FavorKinetic</ShipRule>
     <ShipDesign>Terran_Drone_Guardian_01T</ShipDesign>
@@ -12090,10 +12210,10 @@ xsi:noNamespaceSchemaLocation="../Schema/ShipClassDefs.xsd">
     <InternalName>ProtoTypePirateSurvey</InternalName>
     <DisplayName>ProtoTypePirateSurvey_Class_Name</DisplayName>
     <Description>ProtoTypePirateSurvey_Dec</Description>
-    <ThumbnailOverride>Thalan_Explorer_01T.png</ThumbnailOverride>
+    <ThumbnailOverride>Pirate_Explorer_01T.png</ThumbnailOverride>
     <ShipHullType>Small</ShipHullType>
     <ShipRule>Scout</ShipRule>
-    <ShipDesign>Thalan_Explorer_01T</ShipDesign>
+    <ShipDesign>Pirate_Explorer_01T</ShipDesign>
     <AIShipClass>Survey</AIShipClass>
     <StrategicIcon>SurveyShip</StrategicIcon>
     <BlueprintDef>ProtoTypeSurveyBlueprint</BlueprintDef>
@@ -12105,10 +12225,10 @@ xsi:noNamespaceSchemaLocation="../Schema/ShipClassDefs.xsd">
     <InternalName>PirateExplorer</InternalName>
     <DisplayName>PirateExplorer_Class_Name</DisplayName>
     <Description>PirateExplorer_Dec</Description>
-    <ThumbnailOverride>Pirate_Small_01T.png</ThumbnailOverride>
+    <ThumbnailOverride>Pirate_Explorer_01T.png</ThumbnailOverride>
     <ShipHullType>Small</ShipHullType>
     <ShipRule>Scout</ShipRule>
-    <ShipDesign>Pirate_Small_01T</ShipDesign>
+    <ShipDesign>Pirate_Explorer_01T</ShipDesign>
     <AIShipClass>Scout</AIShipClass>
     <StrategicIcon>Explorer</StrategicIcon>
     <BlueprintDef>ExplorerBlueprint</BlueprintDef>
@@ -12120,10 +12240,10 @@ xsi:noNamespaceSchemaLocation="../Schema/ShipClassDefs.xsd">
     <InternalName>PirateCutter</InternalName>
     <DisplayName>PirateCutter_Class_Name</DisplayName>
     <Description>PirateCutter_Dec</Description>
-    <ThumbnailOverride>Pirate_Small_01T.png</ThumbnailOverride>
+    <ThumbnailOverride>Pirate_Cutter_01T.png</ThumbnailOverride>
     <ShipHullType>Small</ShipHullType>
     <ShipRule>FavorBeam</ShipRule>
-    <ShipDesign>Pirate_Small_01T</ShipDesign>
+    <ShipDesign>Pirate_Cutter_01T</ShipDesign>
     <AIShipClass>Assault</AIShipClass>
     <StrategicIcon>Cutter</StrategicIcon>
     <BlueprintDef>CutterBlueprint</BlueprintDef>
@@ -12135,10 +12255,10 @@ xsi:noNamespaceSchemaLocation="../Schema/ShipClassDefs.xsd">
     <InternalName>PirateCutterL</InternalName>
     <DisplayName>PirateCutterL_Class_Name</DisplayName>
     <Description>PirateCutterL_Dec</Description>
-    <ThumbnailOverride>Pirate_Small_01T.png</ThumbnailOverride>
+    <ThumbnailOverride>Pirate_Cutter_01T.png</ThumbnailOverride>
     <ShipHullType>Small</ShipHullType>
     <ShipRule>FavorBeam</ShipRule>
-    <ShipDesign>Pirate_Small_01T</ShipDesign>
+    <ShipDesign>Pirate_Cutter_01T</ShipDesign>
     <AIShipClass>Assault</AIShipClass>
     <StrategicIcon>Cutter</StrategicIcon>
     <BlueprintDef>CutterLBlueprint</BlueprintDef>
@@ -12150,10 +12270,10 @@ xsi:noNamespaceSchemaLocation="../Schema/ShipClassDefs.xsd">
     <InternalName>PirateDefender</InternalName>
     <DisplayName>PirateDefender_Class_Name</DisplayName>
     <Description>PirateDefender_Dec</Description>
-    <ThumbnailOverride>Pirate_Small_01T.png</ThumbnailOverride>
+    <ThumbnailOverride>Pirate_Defender_01T.png</ThumbnailOverride>
     <ShipHullType>Small</ShipHullType>
     <ShipRule>FavorMissile</ShipRule>
-    <ShipDesign>Pirate_Small_01T</ShipDesign>
+    <ShipDesign>Pirate_Defender_01T</ShipDesign>
     <AIShipClass>Assault</AIShipClass>
     <StrategicIcon>Defender</StrategicIcon>
     <BlueprintDef>DefenderBlueprint</BlueprintDef>
@@ -12165,10 +12285,10 @@ xsi:noNamespaceSchemaLocation="../Schema/ShipClassDefs.xsd">
     <InternalName>PirateDefenderL</InternalName>
     <DisplayName>PirateDefenderL_Class_Name</DisplayName>
     <Description>PirateDefenderL_Dec</Description>
-    <ThumbnailOverride>Pirate_Small_01T.png</ThumbnailOverride>
+    <ThumbnailOverride>Pirate_Defender_01T.png</ThumbnailOverride>
     <ShipHullType>Small</ShipHullType>
     <ShipRule>FavorMissile</ShipRule>
-    <ShipDesign>Pirate_Small_01T</ShipDesign>
+    <ShipDesign>Pirate_Defender_01T</ShipDesign>
     <AIShipClass>Assault</AIShipClass>
     <StrategicIcon>Defender</StrategicIcon>
     <BlueprintDef>DefenderLBlueprint</BlueprintDef>
@@ -12180,10 +12300,10 @@ xsi:noNamespaceSchemaLocation="../Schema/ShipClassDefs.xsd">
     <InternalName>AIPirateDefenderL</InternalName>
     <DisplayName>AIPirateDefenderL_Class_Name</DisplayName>
     <Description>AIPirateDefenderL_Dec</Description>
-    <ThumbnailOverride>Pirate_Small_01T.png</ThumbnailOverride>
+    <ThumbnailOverride>Pirate_Defender_01T.png</ThumbnailOverride>
     <ShipHullType>Small</ShipHullType>
     <ShipRule>FavorMissile</ShipRule>
-    <ShipDesign>Pirate_Small_01T</ShipDesign>
+    <ShipDesign>Pirate_Defender_01T</ShipDesign>
     <AIOnly>true</AIOnly>
     <AIShipClass>Assault</AIShipClass>
     <StrategicIcon>Defender</StrategicIcon>
@@ -12196,10 +12316,10 @@ xsi:noNamespaceSchemaLocation="../Schema/ShipClassDefs.xsd">
     <InternalName>PirateGunboat</InternalName>
     <DisplayName>PirateGunboat_Class_Name</DisplayName>
     <Description>PirateGunboat_Dec</Description>
-    <ThumbnailOverride>Pirate_Small_02T.png</ThumbnailOverride>
+    <ThumbnailOverride>Pirate_Gunboat_01T.png</ThumbnailOverride>
     <ShipHullType>Small</ShipHullType>
     <ShipRule>FavorKinetic</ShipRule>
-    <ShipDesign>Pirate_Small_02T</ShipDesign>
+    <ShipDesign>Pirate_Gunboat_01T</ShipDesign>
     <AIShipClass>Assault</AIShipClass>
     <StrategicIcon>Gunboat</StrategicIcon>
     <BlueprintDef>GunboatBlueprint</BlueprintDef>
@@ -12211,10 +12331,10 @@ xsi:noNamespaceSchemaLocation="../Schema/ShipClassDefs.xsd">
     <InternalName>PirateGunboatL</InternalName>
     <DisplayName>PirateGunboatL_Class_Name</DisplayName>
     <Description>PirateGunboatL_Dec</Description>
-    <ThumbnailOverride>Pirate_Small_02T.png</ThumbnailOverride>
+    <ThumbnailOverride>Pirate_Gunboat_01T.png</ThumbnailOverride>
     <ShipHullType>Small</ShipHullType>
     <ShipRule>FavorKinetic</ShipRule>
-    <ShipDesign>Pirate_Small_02T</ShipDesign>
+    <ShipDesign>Pirate_Gunboat_01T</ShipDesign>
     <AIOnly>true</AIOnly>
     <AIShipClass>Assault</AIShipClass>
     <StrategicIcon>Gunboat</StrategicIcon>
@@ -12227,10 +12347,10 @@ xsi:noNamespaceSchemaLocation="../Schema/ShipClassDefs.xsd">
     <InternalName>PirateFury</InternalName>
     <DisplayName>PirateFury_Class_Name</DisplayName>
     <Description>PirateFury_Dec</Description>
-    <ThumbnailOverride>Pirate_Small_02T.png</ThumbnailOverride>
+    <ThumbnailOverride>Pirate_Fury_01T.png</ThumbnailOverride>
     <ShipHullType>Small</ShipHullType>
     <ShipRule>Balanced</ShipRule>
-    <ShipDesign>Pirate_Small_02T</ShipDesign>
+    <ShipDesign>Pirate_Fury_01T</ShipDesign>
     <AIShipClass>Sentinel</AIShipClass>
     <StrategicIcon>Fury</StrategicIcon>
     <BlueprintDef>FuryBlueprint</BlueprintDef>
@@ -12242,10 +12362,10 @@ xsi:noNamespaceSchemaLocation="../Schema/ShipClassDefs.xsd">
     <InternalName>PirateSurvey</InternalName>
     <DisplayName>PirateSurvey_Class_Name</DisplayName>
     <Description>PirateSurvey_Dec</Description>
-    <ThumbnailOverride>Pirate_Medium_02T.png</ThumbnailOverride>
+    <ThumbnailOverride>Pirate_Survey_01T.png</ThumbnailOverride>
     <ShipHullType>Medium</ShipHullType>
     <ShipRule>Scout</ShipRule>
-    <ShipDesign>Pirate_Medium_02T</ShipDesign>
+    <ShipDesign>Pirate_Survey_01T</ShipDesign>
     <AIShipClass>Survey</AIShipClass>
     <StrategicIcon>SurveyShip</StrategicIcon>
     <BlueprintDef>SurveyBlueprint</BlueprintDef>
@@ -12257,10 +12377,10 @@ xsi:noNamespaceSchemaLocation="../Schema/ShipClassDefs.xsd">
     <InternalName>PirateCorvette</InternalName>
     <DisplayName>PirateCorvette_Class_Name</DisplayName>
     <Description>PirateCorvette_Dec</Description>
-    <ThumbnailOverride>Pirate_Medium_02T.png</ThumbnailOverride>
+    <ThumbnailOverride>Pirate_Corvette_01T.png</ThumbnailOverride>
     <ShipHullType>Medium</ShipHullType>
     <ShipRule>FavorBeam</ShipRule>
-    <ShipDesign>Pirate_Medium_02T</ShipDesign>
+    <ShipDesign>Pirate_Corvette_01T</ShipDesign>
     <AIShipClass>Assault</AIShipClass>
     <StrategicIcon>Corvette</StrategicIcon>
     <BlueprintDef>CorvetteBlueprint</BlueprintDef>
@@ -12272,10 +12392,10 @@ xsi:noNamespaceSchemaLocation="../Schema/ShipClassDefs.xsd">
     <InternalName>PirateCorvetteL</InternalName>
     <DisplayName>PirateCorvetteL_Class_Name</DisplayName>
     <Description>PirateCorvetteL_Dec</Description>
-    <ThumbnailOverride>Pirate_Medium_02T.png</ThumbnailOverride>
+    <ThumbnailOverride>Pirate_Corvette_01T.png</ThumbnailOverride>
     <ShipHullType>Medium</ShipHullType>
     <ShipRule>FavorBeam</ShipRule>
-    <ShipDesign>Pirate_Medium_02T</ShipDesign>
+    <ShipDesign>Pirate_Corvette_01T</ShipDesign>
     <AIShipClass>Assault</AIShipClass>
     <StrategicIcon>Corvette</StrategicIcon>
     <BlueprintDef>CorvetteLBlueprint</BlueprintDef>
@@ -12287,10 +12407,10 @@ xsi:noNamespaceSchemaLocation="../Schema/ShipClassDefs.xsd">
     <InternalName>PirateCorvetteP</InternalName>
     <DisplayName>PirateCorvetteP_Class_Name</DisplayName>
     <Description>PirateCorvetteP_Dec</Description>
-    <ThumbnailOverride>Pirate_Medium_02T.png</ThumbnailOverride>
+    <ThumbnailOverride>Pirate_Corvette_01T.png</ThumbnailOverride>
     <ShipHullType>Medium</ShipHullType>
     <ShipRule>FavorBeam</ShipRule>
-    <ShipDesign>Pirate_Medium_02T</ShipDesign>
+    <ShipDesign>Pirate_Corvette_01T</ShipDesign>
     <AIShipClass>Assault</AIShipClass>
     <StrategicIcon>Corvette</StrategicIcon>
     <BlueprintDef>CorvettePBlueprint</BlueprintDef>
@@ -12302,9 +12422,9 @@ xsi:noNamespaceSchemaLocation="../Schema/ShipClassDefs.xsd">
     <InternalName>PirateRanger</InternalName>
     <DisplayName>PirateRanger_Class_Name</DisplayName>
     <Description>PirateRanger_Dec</Description>
-    <ThumbnailOverride>Pirate_Medium_02T.png</ThumbnailOverride>
+    <ThumbnailOverride>Pirate_Ranger_01T.png</ThumbnailOverride>
     <ShipRule>FavorMissile</ShipRule>
-    <ShipDesign>Pirate_Medium_02T</ShipDesign>
+    <ShipDesign>Pirate_Ranger_01T</ShipDesign>
     <AIShipClass>Assault</AIShipClass>
     <StrategicIcon>Ranger</StrategicIcon>
     <BlueprintDef>RangerBlueprint</BlueprintDef>
@@ -12316,9 +12436,9 @@ xsi:noNamespaceSchemaLocation="../Schema/ShipClassDefs.xsd">
     <InternalName>PirateRangerL</InternalName>
     <DisplayName>PirateRangerL_Class_Name</DisplayName>
     <Description>PirateRangerL_Dec</Description>
-    <ThumbnailOverride>Pirate_Medium_02T.png</ThumbnailOverride>
+    <ThumbnailOverride>Pirate_Ranger_01T.png</ThumbnailOverride>
     <ShipRule>FavorMissile</ShipRule>
-    <ShipDesign>Pirate_Medium_02T</ShipDesign>
+    <ShipDesign>Pirate_Ranger_01T</ShipDesign>
     <AIShipClass>Assault</AIShipClass>
     <StrategicIcon>Ranger</StrategicIcon>
     <BlueprintDef>RangerLBlueprint</BlueprintDef>
@@ -12330,9 +12450,9 @@ xsi:noNamespaceSchemaLocation="../Schema/ShipClassDefs.xsd">
     <InternalName>PirateRangerP</InternalName>
     <DisplayName>PirateRangerP_Class_Name</DisplayName>
     <Description>PirateRangerP_Dec</Description>
-    <ThumbnailOverride>Pirate_Medium_02T.png</ThumbnailOverride>
+    <ThumbnailOverride>Pirate_Ranger_01T.png</ThumbnailOverride>
     <ShipRule>FavorMissile</ShipRule>
-    <ShipDesign>Pirate_Medium_02T</ShipDesign>
+    <ShipDesign>Pirate_Ranger_01T</ShipDesign>
     <AIShipClass>Assault</AIShipClass>
     <StrategicIcon>Ranger</StrategicIcon>
     <BlueprintDef>RangerPBlueprint</BlueprintDef>
@@ -12344,10 +12464,10 @@ xsi:noNamespaceSchemaLocation="../Schema/ShipClassDefs.xsd">
     <InternalName>PirateFrigate</InternalName>
     <DisplayName>PirateFrigate_Class_Name</DisplayName>
     <Description>PirateFrigate_Dec</Description>
-    <ThumbnailOverride>Pirate_Medium_01T.PNG</ThumbnailOverride>
+    <ThumbnailOverride>Pirate_Frigate_01T.PNG</ThumbnailOverride>
     <ShipHullType>Medium</ShipHullType>
     <ShipRule>FavorKinetic</ShipRule>
-    <ShipDesign>Pirate_Medium_01T</ShipDesign>
+    <ShipDesign>Pirate_Frigate_01T</ShipDesign>
     <AIShipClass>Assault</AIShipClass>
     <StrategicIcon>Frigate</StrategicIcon>
     <BlueprintDef>FrigateBlueprint</BlueprintDef>
@@ -12359,10 +12479,10 @@ xsi:noNamespaceSchemaLocation="../Schema/ShipClassDefs.xsd">
     <InternalName>PirateFrigateL</InternalName>
     <DisplayName>PirateFrigateL_Class_Name</DisplayName>
     <Description>PirateFrigateL_Dec</Description>
-    <ThumbnailOverride>Pirate_Medium_01T.PNG</ThumbnailOverride>
+    <ThumbnailOverride>Pirate_Frigate_01T.PNG</ThumbnailOverride>
     <ShipHullType>Medium</ShipHullType>
     <ShipRule>FavorKinetic</ShipRule>
-    <ShipDesign>Pirate_Medium_01T</ShipDesign>
+    <ShipDesign>Pirate_Frigate_01T</ShipDesign>
     <AIShipClass>Assault</AIShipClass>
     <StrategicIcon>Frigate</StrategicIcon>
     <BlueprintDef>FrigateLBlueprint</BlueprintDef>
@@ -12374,10 +12494,10 @@ xsi:noNamespaceSchemaLocation="../Schema/ShipClassDefs.xsd">
     <InternalName>PirateFrigateP</InternalName>
     <DisplayName>PirateFrigateP_Class_Name</DisplayName>
     <Description>PirateFrigateP_Dec</Description>
-    <ThumbnailOverride>Pirate_Medium_01T.PNG</ThumbnailOverride>
+    <ThumbnailOverride>Pirate_Frigate_01T.PNG</ThumbnailOverride>
     <ShipHullType>Medium</ShipHullType>
     <ShipRule>FavorKinetic</ShipRule>
-    <ShipDesign>Pirate_Medium_01T</ShipDesign>
+    <ShipDesign>Pirate_Frigate_01T</ShipDesign>
     <AIShipClass>Assault</AIShipClass>
     <StrategicIcon>Frigate</StrategicIcon>
     <BlueprintDef>FrigatePBlueprint</BlueprintDef>
@@ -12389,10 +12509,10 @@ xsi:noNamespaceSchemaLocation="../Schema/ShipClassDefs.xsd">
     <InternalName>PiratePaladin</InternalName>
     <DisplayName>PiratePaladin_Class_Name</DisplayName>
     <Description>PiratePaladin_Dec</Description>
-    <ThumbnailOverride>Pirate_Medium_01T.PNG</ThumbnailOverride>
+    <ThumbnailOverride>Pirate_Paladin_01T.PNG</ThumbnailOverride>
     <ShipHullType>Medium</ShipHullType>
     <ShipRule>Balanced</ShipRule>
-    <ShipDesign>Pirate_Medium_01T</ShipDesign>
+    <ShipDesign>Pirate_Paladin_01T</ShipDesign>
     <AIShipClass>Sentinel</AIShipClass>
     <StrategicIcon>Paladin</StrategicIcon>
     <BlueprintDef>PaladinBlueprint</BlueprintDef>
@@ -12404,10 +12524,10 @@ xsi:noNamespaceSchemaLocation="../Schema/ShipClassDefs.xsd">
     <InternalName>PirateCruiser</InternalName>
     <DisplayName>PirateCruiser_Class_Name</DisplayName>
     <Description>PirateCruiser_Dec</Description>
-    <ThumbnailOverride>Pirate_Large_01T.png</ThumbnailOverride>
+    <ThumbnailOverride>Pirate_Cruiser_01T.PNG</ThumbnailOverride>
     <ShipHullType>Large</ShipHullType>
     <ShipRule>FavorBeam</ShipRule>
-    <ShipDesign>Pirate_Large_01T</ShipDesign>
+    <ShipDesign>Pirate_Cruiser_01T</ShipDesign>
     <AIShipClass>Assault</AIShipClass>
     <StrategicIcon>Cruiser</StrategicIcon>
     <BlueprintDef>CruiserBlueprint</BlueprintDef>
@@ -12419,10 +12539,10 @@ xsi:noNamespaceSchemaLocation="../Schema/ShipClassDefs.xsd">
     <InternalName>PirateCruiserL</InternalName>
     <DisplayName>PirateCruiserL_Class_Name</DisplayName>
     <Description>PirateCruiserL_Dec</Description>
-    <ThumbnailOverride>Pirate_Large_01T.png</ThumbnailOverride>
+    <ThumbnailOverride>Pirate_Cruiser_01T.PNG</ThumbnailOverride>
     <ShipHullType>Large</ShipHullType>
     <ShipRule>FavorBeam</ShipRule>
-    <ShipDesign>Pirate_Large_01T</ShipDesign>
+    <ShipDesign>Pirate_Cruiser_01T</ShipDesign>
     <AIShipClass>Assault</AIShipClass>
     <StrategicIcon>Cruiser</StrategicIcon>
     <BlueprintDef>CruiserLBlueprint</BlueprintDef>
@@ -12434,10 +12554,10 @@ xsi:noNamespaceSchemaLocation="../Schema/ShipClassDefs.xsd">
     <InternalName>PirateCruiserP</InternalName>
     <DisplayName>PirateCruiserP_Class_Name</DisplayName>
     <Description>PirateCruiserP_Dec</Description>
-    <ThumbnailOverride>Pirate_Large_01T.png</ThumbnailOverride>
+    <ThumbnailOverride>Pirate_Cruiser_01T.PNG</ThumbnailOverride>
     <ShipHullType>Large</ShipHullType>
     <ShipRule>FavorBeam</ShipRule>
-    <ShipDesign>Pirate_Large_01T</ShipDesign>
+    <ShipDesign>Pirate_Cruiser_01T</ShipDesign>
     <AIShipClass>Assault</AIShipClass>
     <StrategicIcon>Cruiser</StrategicIcon>
     <BlueprintDef>CruiserPBlueprint</BlueprintDef>
@@ -12449,10 +12569,10 @@ xsi:noNamespaceSchemaLocation="../Schema/ShipClassDefs.xsd">
     <InternalName>PirateCruiserD</InternalName>
     <DisplayName>PirateCruiserD_Class_Name</DisplayName>
     <Description>PirateCruiserD_Dec</Description>
-    <ThumbnailOverride>Pirate_Large_01T.png</ThumbnailOverride>
+    <ThumbnailOverride>Pirate_Cruiser_01T.PNG</ThumbnailOverride>
     <ShipHullType>Large</ShipHullType>
     <ShipRule>FavorBeam</ShipRule>
-    <ShipDesign>Pirate_Large_01T</ShipDesign>
+    <ShipDesign>Pirate_Cruiser_01T</ShipDesign>
     <AIShipClass>Assault</AIShipClass>
     <StrategicIcon>Cruiser</StrategicIcon>
     <BlueprintDef>CruiserDBlueprint</BlueprintDef>
@@ -12464,10 +12584,10 @@ xsi:noNamespaceSchemaLocation="../Schema/ShipClassDefs.xsd">
     <InternalName>PirateDestroyer</InternalName>
     <DisplayName>PirateDestroyer_Class_Name</DisplayName>
     <Description>PirateDestroyer_Dec</Description>
-    <ThumbnailOverride>Pirate_Large_01T.png</ThumbnailOverride>
+    <ThumbnailOverride>Pirate_Destroyer_01T.png</ThumbnailOverride>
     <ShipHullType>Large</ShipHullType>
     <ShipRule>FavorMissile</ShipRule>
-    <ShipDesign>Pirate_Large_01T</ShipDesign>
+    <ShipDesign>Pirate_Destroyer_01T</ShipDesign>
     <AIShipClass>Assault</AIShipClass>
     <StrategicIcon>Destroyer</StrategicIcon>
     <BlueprintDef>DestroyerBlueprint</BlueprintDef>
@@ -12479,10 +12599,10 @@ xsi:noNamespaceSchemaLocation="../Schema/ShipClassDefs.xsd">
     <InternalName>PirateDestroyerL</InternalName>
     <DisplayName>PirateDestroyerL_Class_Name</DisplayName>
     <Description>PirateDestroyerL_Dec</Description>
-    <ThumbnailOverride>Pirate_Large_01T.png</ThumbnailOverride>
+    <ThumbnailOverride>Pirate_Destroyer_01T.png</ThumbnailOverride>
     <ShipHullType>Large</ShipHullType>
     <ShipRule>FavorMissile</ShipRule>
-    <ShipDesign>Pirate_Large_01T</ShipDesign>
+    <ShipDesign>Pirate_Destroyer_01T</ShipDesign>
     <AIShipClass>Assault</AIShipClass>
     <StrategicIcon>Destroyer</StrategicIcon>
     <BlueprintDef>DestroyerLBlueprint</BlueprintDef>
@@ -12494,10 +12614,10 @@ xsi:noNamespaceSchemaLocation="../Schema/ShipClassDefs.xsd">
     <InternalName>PirateDestroyerP</InternalName>
     <DisplayName>PirateDestroyerP_Class_Name</DisplayName>
     <Description>PirateDestroyerP_Dec</Description>
-    <ThumbnailOverride>Pirate_Large_01T.png</ThumbnailOverride>
+    <ThumbnailOverride>Pirate_Destroyer_01T.png</ThumbnailOverride>
     <ShipHullType>Large</ShipHullType>
     <ShipRule>FavorMissile</ShipRule>
-    <ShipDesign>Pirate_Large_01T</ShipDesign>
+    <ShipDesign>Pirate_Destroyer_01T</ShipDesign>
     <AIShipClass>Assault</AIShipClass>
     <StrategicIcon>Destroyer</StrategicIcon>
     <BlueprintDef>DestroyerPBlueprint</BlueprintDef>
@@ -12509,10 +12629,10 @@ xsi:noNamespaceSchemaLocation="../Schema/ShipClassDefs.xsd">
     <InternalName>PirateDestroyerD</InternalName>
     <DisplayName>PirateDestroyerD_Class_Name</DisplayName>
     <Description>PirateDestroyerD_Dec</Description>
-    <ThumbnailOverride>Pirate_Large_01T.png</ThumbnailOverride>
+    <ThumbnailOverride>Pirate_Destroyer_01T.png</ThumbnailOverride>
     <ShipHullType>Large</ShipHullType>
     <ShipRule>FavorMissile</ShipRule>
-    <ShipDesign>Pirate_Large_01T</ShipDesign>
+    <ShipDesign>Pirate_Destroyer_01T</ShipDesign>
     <AIShipClass>Assault</AIShipClass>
     <StrategicIcon>Destroyer</StrategicIcon>
     <BlueprintDef>DestroyerDBlueprint</BlueprintDef>
@@ -12524,10 +12644,10 @@ xsi:noNamespaceSchemaLocation="../Schema/ShipClassDefs.xsd">
     <InternalName>PirateBattleship</InternalName>
     <DisplayName>PirateBattleship_Class_Name</DisplayName>
     <Description>PirateBattleship_Dec</Description>
-    <ThumbnailOverride>Pirate_Large_01T.png</ThumbnailOverride>
+    <ThumbnailOverride>Pirate_Battleship_01T.png</ThumbnailOverride>
     <ShipHullType>Large</ShipHullType>
     <ShipRule>FavorKinetic</ShipRule>
-    <ShipDesign>Pirate_Large_01T</ShipDesign>
+    <ShipDesign>Pirate_Battleship_01T</ShipDesign>
     <AIShipClass>Assault</AIShipClass>
     <StrategicIcon>Battleship</StrategicIcon>
     <BlueprintDef>BattleshipBlueprint</BlueprintDef>
@@ -12539,10 +12659,10 @@ xsi:noNamespaceSchemaLocation="../Schema/ShipClassDefs.xsd">
     <InternalName>PirateBattleshipL</InternalName>
     <DisplayName>PirateBattleshipL_Class_Name</DisplayName>
     <Description>PirateBattleshipL_Dec</Description>
-    <ThumbnailOverride>Pirate_Large_01T.png</ThumbnailOverride>
+    <ThumbnailOverride>Pirate_Battleship_01T.png</ThumbnailOverride>
     <ShipHullType>Large</ShipHullType>
     <ShipRule>FavorKinetic</ShipRule>
-    <ShipDesign>Pirate_Large_01T</ShipDesign>
+    <ShipDesign>Pirate_Battleship_01T</ShipDesign>
     <AIShipClass>Assault</AIShipClass>
     <StrategicIcon>Battleship</StrategicIcon>
     <BlueprintDef>BattleshipLBlueprint</BlueprintDef>
@@ -12554,10 +12674,10 @@ xsi:noNamespaceSchemaLocation="../Schema/ShipClassDefs.xsd">
     <InternalName>PirateBattleshipP</InternalName>
     <DisplayName>PirateBattleshipP_Class_Name</DisplayName>
     <Description>PirateBattleshipP_Dec</Description>
-    <ThumbnailOverride>Pirate_Large_01T.png</ThumbnailOverride>
+    <ThumbnailOverride>Pirate_Battleship_01T.png</ThumbnailOverride>
     <ShipHullType>Large</ShipHullType>
     <ShipRule>FavorKinetic</ShipRule>
-    <ShipDesign>Pirate_Large_01T</ShipDesign>
+    <ShipDesign>Pirate_Battleship_01T</ShipDesign>
     <AIShipClass>Assault</AIShipClass>
     <StrategicIcon>Battleship</StrategicIcon>
     <BlueprintDef>BattleshipPBlueprint</BlueprintDef>
@@ -12569,13 +12689,13 @@ xsi:noNamespaceSchemaLocation="../Schema/ShipClassDefs.xsd">
     <InternalName>PirateBattleshipD</InternalName>
     <DisplayName>PirateBattleshipD_Class_Name</DisplayName>
     <Description>PirateBattleshipD_Dec</Description>
-    <ThumbnailOverride>Pirate_Large_01T.png</ThumbnailOverride>
+    <ThumbnailOverride>Pirate_Battleship_01T.png</ThumbnailOverride>
     <ShipHullType>Large</ShipHullType>
     <ShipRule>FavorKinetic</ShipRule>
-    <ShipDesign>Pirate_Large_01T</ShipDesign>
+    <ShipDesign>Pirate_Battleship_01T</ShipDesign>
     <AIShipClass>Assault</AIShipClass>
     <StrategicIcon>Battleship</StrategicIcon>
-    <BlueprintDef>DestroyerDBlueprint</BlueprintDef>
+    <BlueprintDef>BattleshipDBlueprint</BlueprintDef>
   </ShipClass>
  
   <!-- Begin Ship -->
@@ -12584,10 +12704,10 @@ xsi:noNamespaceSchemaLocation="../Schema/ShipClassDefs.xsd">
     <InternalName>PirateOverlord</InternalName>
     <DisplayName>PirateOverlord_Class_Name</DisplayName>
     <Description>PirateOverlord_Dec</Description>
-    <ThumbnailOverride>Pirate_Large_01T.png</ThumbnailOverride>
+    <ThumbnailOverride>Pirate_Overlord_01T.png</ThumbnailOverride>
     <ShipHullType>Large</ShipHullType>
     <ShipRule>Balanced</ShipRule>
-    <ShipDesign>Pirate_Large_01T</ShipDesign>
+    <ShipDesign>Pirate_Overlord_01T</ShipDesign>
     <AIShipClass>Sentinel</AIShipClass>
     <StrategicIcon>Overlord</StrategicIcon>
     <BlueprintDef>OverlordBlueprint</BlueprintDef>
@@ -12599,10 +12719,10 @@ xsi:noNamespaceSchemaLocation="../Schema/ShipClassDefs.xsd">
     <InternalName>PirateCarrier</InternalName>
     <DisplayName>PirateCarrier_Class_Name</DisplayName>
     <Description>PirateCarrier_Dec</Description>
-    <ThumbnailOverride>Pirate_Large_01T.png</ThumbnailOverride>
+    <ThumbnailOverride>Pirate_Carrier_01T.png</ThumbnailOverride>
     <ShipHullType>Large</ShipHullType>
     <ShipRule>AssaultCarrier</ShipRule>
-    <ShipDesign>Pirate_Large_01T</ShipDesign>
+    <ShipDesign>Terran_Carrier_01T</ShipDesign>
     <AIShipClass>Assault</AIShipClass>
     <StrategicIcon>Carrier</StrategicIcon>
     <BlueprintDef>CarrierBlueprint</BlueprintDef>
@@ -12614,10 +12734,10 @@ xsi:noNamespaceSchemaLocation="../Schema/ShipClassDefs.xsd">
     <InternalName>PirateAvatar</InternalName>
     <DisplayName>PirateAvatar_Class_Name</DisplayName>
     <Description>PirateAvatar_Dec</Description>
-    <ThumbnailOverride>Pirate_Huge_01T.PNG</ThumbnailOverride>
+    <ThumbnailOverride>Pirate_Avatar_01T.PNG</ThumbnailOverride>
     <ShipHullType>Huge</ShipHullType>
     <ShipRule>FavorBeam</ShipRule>
-    <ShipDesign>Pirate_Huge_01T</ShipDesign>
+    <ShipDesign>Pirate_Avatar_01T</ShipDesign>
     <AIShipClass>Assault</AIShipClass>
     <StrategicIcon>Avatar</StrategicIcon>
     <BlueprintDef>AvatarBlueprint</BlueprintDef>
@@ -12629,10 +12749,10 @@ xsi:noNamespaceSchemaLocation="../Schema/ShipClassDefs.xsd">
     <InternalName>PirateAvatarL</InternalName>
     <DisplayName>PirateAvatarL_Class_Name</DisplayName>
     <Description>PirateAvatarL_Dec</Description>
-    <ThumbnailOverride>Pirate_Huge_01T.PNG</ThumbnailOverride>
+    <ThumbnailOverride>Pirate_Avatar_01T.PNG</ThumbnailOverride>
     <ShipHullType>Huge</ShipHullType>
     <ShipRule>FavorBeam</ShipRule>
-    <ShipDesign>Pirate_Huge_01T</ShipDesign>
+    <ShipDesign>Pirate_Avatar_01T</ShipDesign>
     <AIShipClass>Assault</AIShipClass>
     <StrategicIcon>Avatar</StrategicIcon>
     <BlueprintDef>AvatarLBlueprint</BlueprintDef>
@@ -12644,10 +12764,10 @@ xsi:noNamespaceSchemaLocation="../Schema/ShipClassDefs.xsd">
     <InternalName>PirateAvatarP</InternalName>
     <DisplayName>PirateAvatarP_Class_Name</DisplayName>
     <Description>PirateAvatarP_Dec</Description>
-    <ThumbnailOverride>Pirate_Huge_01T.PNG</ThumbnailOverride>
+    <ThumbnailOverride>Pirate_Avatar_01T.PNG</ThumbnailOverride>
     <ShipHullType>Huge</ShipHullType>
     <ShipRule>FavorBeam</ShipRule>
-    <ShipDesign>Pirate_Huge_01T</ShipDesign>
+    <ShipDesign>Pirate_Avatar_01T</ShipDesign>
     <AIShipClass>Assault</AIShipClass>
     <StrategicIcon>Avatar</StrategicIcon>
     <BlueprintDef>AvatarPBlueprint</BlueprintDef>
@@ -12659,10 +12779,10 @@ xsi:noNamespaceSchemaLocation="../Schema/ShipClassDefs.xsd">
     <InternalName>PirateAvatarD</InternalName>
     <DisplayName>PirateAvatarD_Class_Name</DisplayName>
     <Description>PirateAvatarD_Dec</Description>
-    <ThumbnailOverride>Pirate_Huge_01T.PNG</ThumbnailOverride>
+    <ThumbnailOverride>Pirate_Avatar_01T.PNG</ThumbnailOverride>
     <ShipHullType>Huge</ShipHullType>
     <ShipRule>FavorBeam</ShipRule>
-    <ShipDesign>Pirate_Huge_01T</ShipDesign>
+    <ShipDesign>Pirate_Avatar_01T</ShipDesign>
     <AIShipClass>Assault</AIShipClass>
     <StrategicIcon>Avatar</StrategicIcon>
     <BlueprintDef>AvatarDBlueprint</BlueprintDef>
@@ -12674,10 +12794,10 @@ xsi:noNamespaceSchemaLocation="../Schema/ShipClassDefs.xsd">
     <InternalName>PirateFortress</InternalName>
     <DisplayName>PirateFortress_Class_Name</DisplayName>
     <Description>PirateFortress_Dec</Description>
-    <ThumbnailOverride>Pirate_Huge_01T.PNG</ThumbnailOverride>
+    <ThumbnailOverride>Pirate_Fortress_01T.PNG</ThumbnailOverride>
     <ShipHullType>Huge</ShipHullType>
     <ShipRule>FavorMissile</ShipRule>
-    <ShipDesign>Pirate_Huge_01T</ShipDesign>
+    <ShipDesign>Pirate_Fortress_01T</ShipDesign>
     <AIShipClass>Assault</AIShipClass>
     <StrategicIcon>Fortress</StrategicIcon>
     <BlueprintDef>FortressBlueprint</BlueprintDef>
@@ -12689,10 +12809,10 @@ xsi:noNamespaceSchemaLocation="../Schema/ShipClassDefs.xsd">
     <InternalName>PirateFortressL</InternalName>
     <DisplayName>PirateFortressL_Class_Name</DisplayName>
     <Description>PirateFortressL_Dec</Description>
-    <ThumbnailOverride>Pirate_Huge_01T.PNG</ThumbnailOverride>
+    <ThumbnailOverride>Pirate_Fortress_01T.PNG</ThumbnailOverride>
     <ShipHullType>Huge</ShipHullType>
     <ShipRule>FavorMissile</ShipRule>
-    <ShipDesign>Pirate_Huge_01T</ShipDesign>
+    <ShipDesign>Pirate_Fortress_01T</ShipDesign>
     <AIShipClass>Assault</AIShipClass>
     <StrategicIcon>Fortress</StrategicIcon>
     <BlueprintDef>FortressLBlueprint</BlueprintDef>
@@ -12704,10 +12824,10 @@ xsi:noNamespaceSchemaLocation="../Schema/ShipClassDefs.xsd">
     <InternalName>PirateFortressP</InternalName>
     <DisplayName>PirateFortressP_Class_Name</DisplayName>
     <Description>PirateFortressP_Dec</Description>
-    <ThumbnailOverride>Pirate_Huge_01T.PNG</ThumbnailOverride>
+    <ThumbnailOverride>Pirate_Fortress_01T.PNG</ThumbnailOverride>
     <ShipHullType>Huge</ShipHullType>
     <ShipRule>FavorMissile</ShipRule>
-    <ShipDesign>Pirate_Huge_01T</ShipDesign>
+    <ShipDesign>Pirate_Fortress_01T</ShipDesign>
     <AIShipClass>Assault</AIShipClass>
     <StrategicIcon>Fortress</StrategicIcon>
     <BlueprintDef>FortressPBlueprint</BlueprintDef>
@@ -12719,10 +12839,10 @@ xsi:noNamespaceSchemaLocation="../Schema/ShipClassDefs.xsd">
     <InternalName>PirateFortressD</InternalName>
     <DisplayName>PirateFortressD_Class_Name</DisplayName>
     <Description>PirateFortressD_Dec</Description>
-    <ThumbnailOverride>Pirate_Huge_01T.PNG</ThumbnailOverride>
+    <ThumbnailOverride>Pirate_Fortress_01T.PNG</ThumbnailOverride>
     <ShipHullType>Huge</ShipHullType>
     <ShipRule>FavorMissile</ShipRule>
-    <ShipDesign>Pirate_Huge_01T</ShipDesign>
+    <ShipDesign>Pirate_Fortress_01T</ShipDesign>
     <AIShipClass>Assault</AIShipClass>
     <StrategicIcon>Fortress</StrategicIcon>
     <BlueprintDef>FortressDBlueprint</BlueprintDef>
@@ -12734,10 +12854,10 @@ xsi:noNamespaceSchemaLocation="../Schema/ShipClassDefs.xsd">
     <InternalName>PirateDreadnought</InternalName>
     <DisplayName>PirateDreadnought_Class_Name</DisplayName>
     <Description>PirateDreadnought_Dec</Description>
-    <ThumbnailOverride>Pirate_Huge_01T.PNG</ThumbnailOverride>
+    <ThumbnailOverride>Pirate_Dreadnought_01T.PNG</ThumbnailOverride>
     <ShipHullType>Huge</ShipHullType>
     <ShipRule>FavorKinetic</ShipRule>
-    <ShipDesign>Pirate_Huge_01T</ShipDesign>
+    <ShipDesign>Pirate_Dreadnought_01T</ShipDesign>
     <AIShipClass>Assault</AIShipClass>
     <StrategicIcon>Dreadnought</StrategicIcon>
     <BlueprintDef>DreadnoughtBlueprint</BlueprintDef>
@@ -12749,10 +12869,10 @@ xsi:noNamespaceSchemaLocation="../Schema/ShipClassDefs.xsd">
     <InternalName>PirateDreadnoughtL</InternalName>
     <DisplayName>PirateDreadnoughtL_Class_Name</DisplayName>
     <Description>PirateDreadnoughtL_Dec</Description>
-    <ThumbnailOverride>Pirate_Huge_01T.PNG</ThumbnailOverride>
+    <ThumbnailOverride>Pirate_Dreadnought_01T.PNG</ThumbnailOverride>
     <ShipHullType>Huge</ShipHullType>
     <ShipRule>FavorKinetic</ShipRule>
-    <ShipDesign>Pirate_Huge_01T</ShipDesign>
+    <ShipDesign>Pirate_Dreadnought_01T</ShipDesign>
     <AIShipClass>Assault</AIShipClass>
     <StrategicIcon>Dreadnought</StrategicIcon>
     <BlueprintDef>DreadnoughtLBlueprint</BlueprintDef>
@@ -12764,10 +12884,10 @@ xsi:noNamespaceSchemaLocation="../Schema/ShipClassDefs.xsd">
     <InternalName>PirateDreadnoughtP</InternalName>
     <DisplayName>PirateDreadnoughtP_Class_Name</DisplayName>
     <Description>PirateDreadnoughtP_Dec</Description>
-    <ThumbnailOverride>Pirate_Huge_01T.PNG</ThumbnailOverride>
+    <ThumbnailOverride>Pirate_Dreadnought_01T.PNG</ThumbnailOverride>
     <ShipHullType>Huge</ShipHullType>
     <ShipRule>FavorKinetic</ShipRule>
-    <ShipDesign>Pirate_Huge_01T</ShipDesign>
+    <ShipDesign>Pirate_Dreadnought_01T</ShipDesign>
     <AIShipClass>Assault</AIShipClass>
     <StrategicIcon>Dreadnought</StrategicIcon>
     <BlueprintDef>DreadnoughtPBlueprint</BlueprintDef>
@@ -12779,10 +12899,10 @@ xsi:noNamespaceSchemaLocation="../Schema/ShipClassDefs.xsd">
     <InternalName>PirateDreadnoughtD</InternalName>
     <DisplayName>PirateDreadnoughtD_Class_Name</DisplayName>
     <Description>PirateDreadnoughtD_Dec</Description>
-    <ThumbnailOverride>Pirate_Huge_01T.PNG</ThumbnailOverride>
+    <ThumbnailOverride>Pirate_Dreadnought_01T.PNG</ThumbnailOverride>
     <ShipHullType>Huge</ShipHullType>
     <ShipRule>FavorKinetic</ShipRule>
-    <ShipDesign>Pirate_Huge_01T</ShipDesign>
+    <ShipDesign>Pirate_Dreadnought_01T</ShipDesign>
     <AIShipClass>Assault</AIShipClass>
     <StrategicIcon>Dreadnought</StrategicIcon>
     <BlueprintDef>DreadnoughtDBlueprint</BlueprintDef>
@@ -12794,10 +12914,10 @@ xsi:noNamespaceSchemaLocation="../Schema/ShipClassDefs.xsd">
     <InternalName>PirateTitan</InternalName>
     <DisplayName>PirateTitan_Class_Name</DisplayName>
     <Description>PirateTitan_Dec</Description>
-    <ThumbnailOverride>Pirate_Huge_01T.PNG</ThumbnailOverride>
+    <ThumbnailOverride>Pirate_Titan_01T.PNG</ThumbnailOverride>
     <ShipHullType>Huge</ShipHullType>
     <ShipRule>Balanced</ShipRule>
-    <ShipDesign>Pirate_Huge_01T</ShipDesign>
+    <ShipDesign>Pirate_Titan_01T</ShipDesign>
     <AIShipClass>Sentinel</AIShipClass>
     <StrategicIcon>Titan</StrategicIcon>
     <BlueprintDef>TitanBlueprint</BlueprintDef>
@@ -12809,10 +12929,10 @@ xsi:noNamespaceSchemaLocation="../Schema/ShipClassDefs.xsd">
     <InternalName>PirateAssaultCarrier</InternalName>
     <DisplayName>PirateAssaultCarrier_Class_Name</DisplayName>
     <Description>PirateAssaultCarrier_Dec</Description>
-    <ThumbnailOverride>Pirate_Huge_01T.PNG</ThumbnailOverride>
+    <ThumbnailOverride>Pirate_Carrier_01T.PNG</ThumbnailOverride>
     <ShipHullType>Huge</ShipHullType>
     <ShipRule>AssaultCarrier</ShipRule>
-    <ShipDesign>Pirate_Huge_01T</ShipDesign>
+    <ShipDesign>Terran_Carrier_01T</ShipDesign>
     <AIShipClass>Assault</AIShipClass>
     <StrategicIcon>Carrier</StrategicIcon>
     <BlueprintDef>AssaultCarrierBlueprint</BlueprintDef>
@@ -12824,10 +12944,10 @@ xsi:noNamespaceSchemaLocation="../Schema/ShipClassDefs.xsd">
     <InternalName>PirateColony</InternalName>
     <DisplayName>PirateColony_Class_Name</DisplayName>
     <Description>PirateColony_Dec</Description>
-    <ThumbnailOverride>Thalan_Colony_01T.PNG</ThumbnailOverride>
+    <ThumbnailOverride>Pirate_Colony_01T.PNG</ThumbnailOverride>
     <ShipHullType>Cargo</ShipHullType>
     <ShipRule>ColonyShip</ShipRule>
-    <ShipDesign>Thalan_Colony_01T</ShipDesign>
+    <ShipDesign>Pirate_Colony_01T</ShipDesign>
     <AIShipClass>Colony</AIShipClass>
     <StrategicIcon>ColonyShip</StrategicIcon>
     <BlueprintDef>ColonyBlueprint</BlueprintDef>
@@ -12839,10 +12959,10 @@ xsi:noNamespaceSchemaLocation="../Schema/ShipClassDefs.xsd">
     <InternalName>PirateConstructor</InternalName>
     <DisplayName>PirateConstructor_Class_Name</DisplayName>
     <Description>PirateConstructor_Dec</Description>
-    <ThumbnailOverride>Thalan_Constructor_01T.png</ThumbnailOverride>
+    <ThumbnailOverride>Pirate_Constructor_01T.png</ThumbnailOverride>
     <ShipHullType>Cargo</ShipHullType>
     <ShipRule>Constructor</ShipRule>
-    <ShipDesign>Thalan_Constructor_01T</ShipDesign>
+    <ShipDesign>Pirate_Constructor_01T</ShipDesign>
     <AIShipClass>Constructor</AIShipClass>
     <StrategicIcon>Constructor</StrategicIcon>
     <BlueprintDef>ConstructorBlueprint</BlueprintDef>
@@ -12851,13 +12971,28 @@ xsi:noNamespaceSchemaLocation="../Schema/ShipClassDefs.xsd">
   <!-- Begin Ship -->
  
   <ShipClass>
+    <InternalName>PirateBasicConstructor</InternalName>
+    <DisplayName>PirateBasicConstructor_Class_Name</DisplayName>
+    <Description>PirateBasicConstructor_Dec</Description>
+    <ThumbnailOverride>Pirate_Constructor_01T.png</ThumbnailOverride>
+    <ShipHullType>Cargo</ShipHullType>
+    <ShipRule>Constructor</ShipRule>
+    <ShipDesign>Pirate_Constructor_01T</ShipDesign>
+    <AIShipClass>Constructor</AIShipClass>
+    <StrategicIcon>Constructor</StrategicIcon>
+    <StaticBlueprintDef>BasicConstructorBlueprint</StaticBlueprintDef>
+  </ShipClass>
+ 
+  <!-- Begin Ship -->
+ 
+  <ShipClass>
     <InternalName>PirateFreighter</InternalName>
     <DisplayName>PirateFreighter_Class_Name</DisplayName>
     <Description>PirateFreighter_Dec</Description>
-    <ThumbnailOverride>Thalan_Freighter_01T.PNG</ThumbnailOverride>
+    <ThumbnailOverride>Pirate_Freighter_01T.PNG</ThumbnailOverride>
     <ShipHullType>Cargo</ShipHullType>
     <ShipRule>Freighter</ShipRule>
-    <ShipDesign>Thalan_Freighter_01T</ShipDesign>
+    <ShipDesign>Terran_Freighter_01T</ShipDesign>
     <AIShipClass>Freighter</AIShipClass>
     <StrategicIcon>Freighter</StrategicIcon>
     <BlueprintDef>FreighterBlueprint</BlueprintDef>
@@ -12869,10 +13004,10 @@ xsi:noNamespaceSchemaLocation="../Schema/ShipClassDefs.xsd">
     <InternalName>PirateTransport</InternalName>
     <DisplayName>PirateTransport_Class_Name</DisplayName>
     <Description>PirateTransport_Dec</Description>
-    <ThumbnailOverride>Thalan_Transport_01T.PNG</ThumbnailOverride>
+    <ThumbnailOverride>Pirate_Transport_01T.PNG</ThumbnailOverride>
     <ShipHullType>Cargo</ShipHullType>
     <ShipRule>Transport</ShipRule>
-    <ShipDesign>Thalan_Transport_01T</ShipDesign>
+    <ShipDesign>Terran_Transport_01T</ShipDesign>
     <AIShipClass>Transport</AIShipClass>
     <StrategicIcon>Transport</StrategicIcon>
     <BlueprintDef>TransportBlueprint</BlueprintDef>
@@ -12884,10 +13019,10 @@ xsi:noNamespaceSchemaLocation="../Schema/ShipClassDefs.xsd">
     <InternalName>PirateDroneCarrier</InternalName>
     <DisplayName>PirateDroneCarrier_Class_Name</DisplayName>
     <Description>PirateDroneCarrier_Dec</Description>
-    <ThumbnailOverride>Thalan_Carrier_01T.PNG</ThumbnailOverride>
+    <ThumbnailOverride>Pirate_Carrier_01T.PNG</ThumbnailOverride>
     <ShipHullType>Cargo</ShipHullType>
     <ShipRule>AssaultCarrier</ShipRule>
-    <ShipDesign>Thalan_Carrier_01T</ShipDesign>
+    <ShipDesign>Terran_Carrier_01T</ShipDesign>
     <AIShipClass>Assault</AIShipClass>
     <StrategicIcon>Carrier</StrategicIcon>
     <BlueprintDef>DroneCarrierBlueprint</BlueprintDef>
@@ -12899,10 +13034,10 @@ xsi:noNamespaceSchemaLocation="../Schema/ShipClassDefs.xsd">
     <InternalName>PirateBeamSupport</InternalName>
     <DisplayName>PirateBeamSupport_Class_Name</DisplayName>
     <Description>PirateBeamSupport_Dec</Description>
-    <ThumbnailOverride>Thalan_Cruiser_01T.png</ThumbnailOverride>
+    <ThumbnailOverride>Pirate_Overlord_01T.PNG</ThumbnailOverride>
     <ShipHullType>Large</ShipHullType>
     <ShipRule>Support</ShipRule>
-    <ShipDesign>Thalan_Cruiser_01T</ShipDesign>
+    <ShipDesign>Pirate_Overlord_01T</ShipDesign>
     <AIShipClass>Transport</AIShipClass>
     <StrategicIcon>Support</StrategicIcon>
     <BlueprintDef>BeamSupportBlueprint</BlueprintDef>
@@ -12914,10 +13049,10 @@ xsi:noNamespaceSchemaLocation="../Schema/ShipClassDefs.xsd">
     <InternalName>PirateMissileSupport</InternalName>
     <DisplayName>PirateMissileSupport_Class_Name</DisplayName>
     <Description>PirateMissileSupport_Dec</Description>
-    <ThumbnailOverride>Thalan_Battleship_01T.PNG</ThumbnailOverride>
+    <ThumbnailOverride>Pirate_Overlord_01T.PNG</ThumbnailOverride>
     <ShipHullType>Large</ShipHullType>
     <ShipRule>Support</ShipRule>
-    <ShipDesign>Thalan_Overlord_01T</ShipDesign>
+    <ShipDesign>Pirate_Overlord_01T</ShipDesign>
     <AIShipClass>Transport</AIShipClass>
     <StrategicIcon>Support</StrategicIcon>
     <BlueprintDef>MissileSupportBlueprint</BlueprintDef>
@@ -12929,10 +13064,10 @@ xsi:noNamespaceSchemaLocation="../Schema/ShipClassDefs.xsd">
     <InternalName>PirateKineticSupport</InternalName>
     <DisplayName>PirateKineticSupport_Class_Name</DisplayName>
     <Description>PirateKineticSupport_Dec</Description>
-    <ThumbnailOverride>Drengin_Battleship_02T.PNG</ThumbnailOverride>
+    <ThumbnailOverride>Pirate_Overlord_01T.PNG</ThumbnailOverride>
     <ShipHullType>Large</ShipHullType>
     <ShipRule>Support</ShipRule>
-    <ShipDesign>Drengin_Battleship_01T</ShipDesign>
+    <ShipDesign>Pirate_Overlord_01T</ShipDesign>
     <AIShipClass>Transport</AIShipClass>
     <StrategicIcon>Support</StrategicIcon>
     <BlueprintDef>KineticSupportBlueprint</BlueprintDef>
@@ -12944,10 +13079,10 @@ xsi:noNamespaceSchemaLocation="../Schema/ShipClassDefs.xsd">
     <InternalName>PirateTacticalSupport</InternalName>
     <DisplayName>PirateTacticalSupport_Class_Name</DisplayName>
     <Description>PirateTacticalSupport_Dec</Description>
-    <ThumbnailOverride>Thalan_Overlord_01T.PNG</ThumbnailOverride>
+    <ThumbnailOverride>Pirate_Overlord_01T.PNG</ThumbnailOverride>
     <ShipHullType>Large</ShipHullType>
     <ShipRule>Support</ShipRule>
-    <ShipDesign>Terran_Overlord_01T</ShipDesign>
+    <ShipDesign>Pirate_Overlord_01T</ShipDesign>
     <AIShipClass>Transport</AIShipClass>
     <StrategicIcon>Support</StrategicIcon>
     <BlueprintDef>TacticalSupportBlueprint</BlueprintDef>
@@ -12959,8 +13094,8 @@ xsi:noNamespaceSchemaLocation="../Schema/ShipClassDefs.xsd">
     <InternalName>PirateStartingScout</InternalName>
     <DisplayName>PirateStartingScout_Class_Name</DisplayName>
     <Description>PirateStartingScout_Dec</Description>
-    <ThumbnailOverride>Thalan_Scout_01S.png</ThumbnailOverride>
-    <ShipDesign>Thalan_Scout_01T</ShipDesign>
+    <ThumbnailOverride>Pirate_Scout_01T.png</ThumbnailOverride>
+    <ShipDesign>Pirate_Scout_01T</ShipDesign>
     <AIShipClass>Scout</AIShipClass>
     <StrategicIcon>Scout</StrategicIcon>
     <StaticBlueprintDef>ScoutStaticBlueprint</StaticBlueprintDef>
@@ -12972,8 +13107,8 @@ xsi:noNamespaceSchemaLocation="../Schema/ShipClassDefs.xsd">
     <InternalName>PirateStartingSurvey</InternalName>
     <DisplayName>PirateStartingSurvey_Class_Name</DisplayName>
     <Description>PirateStartingSurvey_Dec</Description>
-    <ThumbnailOverride>Thalan_Survey_01S.png</ThumbnailOverride>
-    <ShipDesign>Thalan_Survey_01T</ShipDesign>
+    <ThumbnailOverride>Pirate_Survey_01T.png</ThumbnailOverride>
+    <ShipDesign>Pirate_Survey_01T</ShipDesign>
     <AIShipClass>Survey</AIShipClass>
     <StrategicIcon>SurveyShip</StrategicIcon>
     <StaticBlueprintDef>SurveyStaticBlueprint</StaticBlueprintDef>
@@ -12985,8 +13120,8 @@ xsi:noNamespaceSchemaLocation="../Schema/ShipClassDefs.xsd">
     <InternalName>PirateStartingColony</InternalName>
     <DisplayName>PirateStartingColony_Class_Name</DisplayName>
     <Description>PirateStartingColony_Dec</Description>
-    <ThumbnailOverride>Thalan_Colony_01S.png</ThumbnailOverride>
-    <ShipDesign>Thalan_Colony_01T</ShipDesign>
+    <ThumbnailOverride>Pirate_Colony_01T.png</ThumbnailOverride>
+    <ShipDesign>Pirate_Colony_01T</ShipDesign>
     <AIShipClass>Colony</AIShipClass>
     <StrategicIcon>ColonyShip</StrategicIcon>
     <StaticBlueprintDef>ColonyStaticBlueprint</StaticBlueprintDef>
@@ -12998,10 +13133,10 @@ xsi:noNamespaceSchemaLocation="../Schema/ShipClassDefs.xsd">
     <InternalName>AwardPirateScout</InternalName>
     <DisplayName>AwardPirateScout_Class_Name</DisplayName>
     <Description>AwardPirateScout_Dec</Description>
-    <ThumbnailOverride>Thalan_Scout_01T.png</ThumbnailOverride>
+    <ThumbnailOverride>Pirate_Scout_01T.png</ThumbnailOverride>
     <ShipHullType>Tiny</ShipHullType>
     <ShipRule>Scout</ShipRule>
-    <ShipDesign>Thalan_Scout_01T</ShipDesign>
+    <ShipDesign>Pirate_Scout_01T</ShipDesign>
     <AIShipClass>Scout</AIShipClass>
     <StrategicIcon>Scout</StrategicIcon>
     <BlueprintDef>AwardScoutBlueprint</BlueprintDef>
@@ -13013,10 +13148,10 @@ xsi:noNamespaceSchemaLocation="../Schema/ShipClassDefs.xsd">
     <InternalName>AwardPirateCutter</InternalName>
     <DisplayName>AwardPirateCutter_Class_Name</DisplayName>
     <Description>AwardPirateCutter_Dec</Description>
-    <ThumbnailOverride>Pirate_Small_01T.png</ThumbnailOverride>
+    <ThumbnailOverride>Pirate_Cutter_01T.png</ThumbnailOverride>
     <ShipHullType>Small</ShipHullType>
     <ShipRule>FavorBeam</ShipRule>
-    <ShipDesign>Pirate_Small_01T</ShipDesign>
+    <ShipDesign>Pirate_Cutter_01T</ShipDesign>
     <AIShipClass>Assault</AIShipClass>
     <StrategicIcon>Cutter</StrategicIcon>
     <BlueprintDef>AwardCutterBlueprint</BlueprintDef>
@@ -13028,10 +13163,10 @@ xsi:noNamespaceSchemaLocation="../Schema/ShipClassDefs.xsd">
     <InternalName>AwardPirateDefender</InternalName>
     <DisplayName>AwardPirateDefender_Class_Name</DisplayName>
     <Description>AwardPirateDefender_Dec</Description>
-    <ThumbnailOverride>Pirate_Small_01T.png</ThumbnailOverride>
+    <ThumbnailOverride>Pirate_Defender_01T.png</ThumbnailOverride>
     <ShipHullType>Small</ShipHullType>
     <ShipRule>FavorMissile</ShipRule>
-    <ShipDesign>Pirate_Small_01T</ShipDesign>
+    <ShipDesign>Pirate_Defender_01T</ShipDesign>
     <AIShipClass>Assault</AIShipClass>
     <StrategicIcon>Defender</StrategicIcon>
     <BlueprintDef>AwardDefenderBlueprint</BlueprintDef>
@@ -13043,10 +13178,10 @@ xsi:noNamespaceSchemaLocation="../Schema/ShipClassDefs.xsd">
     <InternalName>AwardPirateGunboat</InternalName>
     <DisplayName>AwardPirateGunboat_Class_Name</DisplayName>
     <Description>AwardPirateGunboat_Dec</Description>
-    <ThumbnailOverride>Pirate_Small_02T.png</ThumbnailOverride>
+    <ThumbnailOverride>Pirate_Gunboat_01T.png</ThumbnailOverride>
     <ShipHullType>Small</ShipHullType>
     <ShipRule>FavorKinetic</ShipRule>
-    <ShipDesign>Pirate_Small_02T</ShipDesign>
+    <ShipDesign>Pirate_Gunboat_01T</ShipDesign>
     <AIShipClass>Assault</AIShipClass>
     <StrategicIcon>Gunboat</StrategicIcon>
     <BlueprintDef>AwardGunboatBlueprint</BlueprintDef>
@@ -13058,10 +13193,10 @@ xsi:noNamespaceSchemaLocation="../Schema/ShipClassDefs.xsd">
     <InternalName>AwardPirateSurvey</InternalName>
     <DisplayName>AwardPirateSurvey_Class_Name</DisplayName>
     <Description>AwardPirateSurvey_Dec</Description>
-    <ThumbnailOverride>Pirate_Medium_02T.png</ThumbnailOverride>
+    <ThumbnailOverride>Pirate_Survey_01T.png</ThumbnailOverride>
     <ShipHullType>Medium</ShipHullType>
     <ShipRule>Scout</ShipRule>
-    <ShipDesign>Pirate_Medium_02T</ShipDesign>
+    <ShipDesign>Pirate_Survey_01T</ShipDesign>
     <AIShipClass>Survey</AIShipClass>
     <StrategicIcon>SurveyShip</StrategicIcon>
     <BlueprintDef>AwardSurveyBlueprint</BlueprintDef>
@@ -13073,10 +13208,10 @@ xsi:noNamespaceSchemaLocation="../Schema/ShipClassDefs.xsd">
     <InternalName>AwardPirateFrigate</InternalName>
     <DisplayName>AwardPirateFrigate_Class_Name</DisplayName>
     <Description>AwardPirateFrigate_Dec</Description>
-    <ThumbnailOverride>Pirate_Medium_01T.PNG</ThumbnailOverride>
+    <ThumbnailOverride>Pirate_Frigate_01T.PNG</ThumbnailOverride>
     <ShipHullType>Medium</ShipHullType>
     <ShipRule>FavorKinetic</ShipRule>
-    <ShipDesign>Pirate_Medium_01T</ShipDesign>
+    <ShipDesign>Pirate_Frigate_01T</ShipDesign>
     <AIShipClass>Assault</AIShipClass>
     <StrategicIcon>Frigate</StrategicIcon>
     <BlueprintDef>AwardFrigateBlueprint</BlueprintDef>
@@ -13088,10 +13223,10 @@ xsi:noNamespaceSchemaLocation="../Schema/ShipClassDefs.xsd">
     <InternalName>AwardPirateOverlord</InternalName>
     <DisplayName>AwardPirateOverlord_Class_Name</DisplayName>
     <Description>AwardPirateOverlord_Dec</Description>
-    <ThumbnailOverride>Pirate_Large_01T.png</ThumbnailOverride>
+    <ThumbnailOverride>Pirate_Overlord_01T.png</ThumbnailOverride>
     <ShipHullType>Large</ShipHullType>
     <ShipRule>Balanced</ShipRule>
-    <ShipDesign>Pirate_Large_01T</ShipDesign>
+    <ShipDesign>Pirate_Overlord_01T</ShipDesign>
     <AIShipClass>Sentinel</AIShipClass>
     <StrategicIcon>Overlord</StrategicIcon>
     <BlueprintDef>AwardOverlordBlueprint</BlueprintDef>
@@ -13103,10 +13238,10 @@ xsi:noNamespaceSchemaLocation="../Schema/ShipClassDefs.xsd">
     <InternalName>AwardPirateColony</InternalName>
     <DisplayName>AwardPirateColony_Class_Name</DisplayName>
     <Description>AwardPirateColony_Dec</Description>
-    <ThumbnailOverride>Thalan_Colony_01T.PNG</ThumbnailOverride>
+    <ThumbnailOverride>Pirate_Colony_01T.PNG</ThumbnailOverride>
     <ShipHullType>Cargo</ShipHullType>
     <ShipRule>ColonyShip</ShipRule>
-    <ShipDesign>Thalan_Colony_01T</ShipDesign>
+    <ShipDesign>Pirate_Colony_01T</ShipDesign>
     <AIShipClass>Colony</AIShipClass>
     <StrategicIcon>ColonyShip</StrategicIcon>
     <BlueprintDef>AwardColonyBlueprint</BlueprintDef>
@@ -13118,10 +13253,10 @@ xsi:noNamespaceSchemaLocation="../Schema/ShipClassDefs.xsd">
     <InternalName>AwardPirateConstructor</InternalName>
     <DisplayName>AwardPirateConstructor_Class_Name</DisplayName>
     <Description>AwardPirateConstructor_Dec</Description>
-    <ThumbnailOverride>Thalan_Constructor_01T.png</ThumbnailOverride>
+    <ThumbnailOverride>Pirate_Constructor_01T.png</ThumbnailOverride>
     <ShipHullType>Cargo</ShipHullType>
     <ShipRule>Constructor</ShipRule>
-    <ShipDesign>Thalan_Constructor_01T</ShipDesign>
+    <ShipDesign>Pirate_Constructor_01T</ShipDesign>
     <AIShipClass>Constructor</AIShipClass>
     <StrategicIcon>Constructor</StrategicIcon>
     <BlueprintDef>AwardConstructorBlueprint</BlueprintDef>
@@ -13133,10 +13268,10 @@ xsi:noNamespaceSchemaLocation="../Schema/ShipClassDefs.xsd">
     <InternalName>AwardPirateFreighter</InternalName>
     <DisplayName>AwardPirateFreighter_Class_Name</DisplayName>
     <Description>AwardPirateFreighter_Dec</Description>
-    <ThumbnailOverride>Thalan_Freighter_01T.PNG</ThumbnailOverride>
+    <ThumbnailOverride>Pirate_Freighter_01T.PNG</ThumbnailOverride>
     <ShipHullType>Cargo</ShipHullType>
     <ShipRule>Freighter</ShipRule>
-    <ShipDesign>Thalan_Freighter_01T</ShipDesign>
+    <ShipDesign>Terran_Freighter_01T</ShipDesign>
     <AIShipClass>Freighter</AIShipClass>
     <StrategicIcon>Freighter</StrategicIcon>
     <BlueprintDef>AwardFreighterBlueprint</BlueprintDef>
@@ -13148,10 +13283,10 @@ xsi:noNamespaceSchemaLocation="../Schema/ShipClassDefs.xsd">
     <InternalName>AwardPirateTransport</InternalName>
     <DisplayName>AwardPirateTransport_Class_Name</DisplayName>
     <Description>AwardPirateTransport_Dec</Description>
-    <ThumbnailOverride>Thalan_Transport_01T.PNG</ThumbnailOverride>
+    <ThumbnailOverride>Pirate_Transport_01T.PNG</ThumbnailOverride>
     <ShipHullType>Cargo</ShipHullType>
     <ShipRule>Transport</ShipRule>
-    <ShipDesign>Thalan_Transport_01T</ShipDesign>
+    <ShipDesign>Terran_Transport_01T</ShipDesign>
     <AIShipClass>Transport</AIShipClass>
     <StrategicIcon>Transport</StrategicIcon>
     <BlueprintDef>AwardTransportBlueprint</BlueprintDef>
@@ -13163,8 +13298,8 @@ xsi:noNamespaceSchemaLocation="../Schema/ShipClassDefs.xsd">
     <InternalName>TutorialPirateStartingScout</InternalName>
     <DisplayName>TutorialPirateStartingScout_Class_Name</DisplayName>
     <Description>TutorialPirateStartingScout_Dec</Description>
-    <ThumbnailOverride>Pirate_Tiny_02T.png</ThumbnailOverride>
-    <ShipDesign>Thalan_Guardian_01T</ShipDesign>
+    <ThumbnailOverride>Pirate_Scout_01T.png</ThumbnailOverride>
+    <ShipDesign>Pirate_Scout_01T</ShipDesign>
     <AIShipClass>Scout</AIShipClass>
     <StrategicIcon>Scout</StrategicIcon>
     <StaticBlueprintDef>TutorialSurveyStaticBlueprint</StaticBlueprintDef>
@@ -13176,8 +13311,8 @@ xsi:noNamespaceSchemaLocation="../Schema/ShipClassDefs.xsd">
     <InternalName>TutorialPirateStartingSurvey</InternalName>
     <DisplayName>TutorialPirateStartingSurvey_Class_Name</DisplayName>
     <Description>TutorialPirateStartingSurvey_Dec</Description>
-    <ThumbnailOverride>Pirate_Medium_02T.png</ThumbnailOverride>
-    <ShipDesign>Pirate_Medium_02T</ShipDesign>
+    <ThumbnailOverride>Pirate_Survey_01T.png</ThumbnailOverride>
+    <ShipDesign>Pirate_Survey_01T</ShipDesign>
     <AIShipClass>Survey</AIShipClass>
     <StrategicIcon>SurveyShip</StrategicIcon>
     <StaticBlueprintDef>TutorialColonyStaticBlueprint</StaticBlueprintDef>
@@ -13189,8 +13324,8 @@ xsi:noNamespaceSchemaLocation="../Schema/ShipClassDefs.xsd">
     <InternalName>TutorialPirateStartingColony</InternalName>
     <DisplayName>TutorialPirateStartingColony_Class_Name</DisplayName>
     <Description>TutorialPirateStartingColony_Dec</Description>
-    <ThumbnailOverride>Terran_Colony_Alpha_01.png</ThumbnailOverride>
-    <ShipDesign>Terran_Colony_01T</ShipDesign>
+    <ThumbnailOverride>Pirate_Colony_01T.png</ThumbnailOverride>
+    <ShipDesign>Pirate_Colony_01T</ShipDesign>
     <AIShipClass>Colony</AIShipClass>
     <StrategicIcon>ColonyShip</StrategicIcon>
     <StaticBlueprintDef>ColonyStaticBlueprint</StaticBlueprintDef>
@@ -13202,9 +13337,9 @@ xsi:noNamespaceSchemaLocation="../Schema/ShipClassDefs.xsd">
     <InternalName>TutorialPirateStartingCutter</InternalName>
     <DisplayName>TutorialPirateStartingCutter_Class_Name</DisplayName>
     <Description>TutorialPirateStartingCutter_Dec</Description>
-    <ThumbnailOverride>Pirate_Small_01T.png</ThumbnailOverride>
+    <ThumbnailOverride>Pirate_Cutter_01T.png</ThumbnailOverride>
     <ShipRule>FavorBeam</ShipRule>
-    <ShipDesign>Pirate_Small_01T</ShipDesign>
+    <ShipDesign>Pirate_Cutter_01T</ShipDesign>
     <AIShipClass>Assault</AIShipClass>
     <StrategicIcon>Cutter</StrategicIcon>
     <StaticBlueprintDef>TutorialCutterStaticBlueprint</StaticBlueprintDef>
@@ -13216,9 +13351,9 @@ xsi:noNamespaceSchemaLocation="../Schema/ShipClassDefs.xsd">
     <InternalName>TutorialPirateStartingSniper</InternalName>
     <DisplayName>TutorialPirateStartingSniper_Class_Name</DisplayName>
     <Description>TutorialPirateStartingSniper_Dec</Description>
-    <ThumbnailOverride>Pirate_Tiny_02T.png</ThumbnailOverride>
+    <ThumbnailOverride>Pirate_Sniper_01T.png</ThumbnailOverride>
     <ShipRule>FavorBeam</ShipRule>
-    <ShipDesign>Pirate_Tiny_02T</ShipDesign>
+    <ShipDesign>Pirate_Sniper_01T</ShipDesign>
     <AIShipClass>Assault</AIShipClass>
     <StrategicIcon>Sniper</StrategicIcon>
     <StaticBlueprintDef>TutorialBomberStaticBlueprint</StaticBlueprintDef>
@@ -13230,9 +13365,9 @@ xsi:noNamespaceSchemaLocation="../Schema/ShipClassDefs.xsd">
     <InternalName>TutorialPirateStartingBomber</InternalName>
     <DisplayName>TutorialPirateStartingBomber_Class_Name</DisplayName>
     <Description>TutorialPirateStartingBomber_Dec</Description>
-    <ThumbnailOverride>Pirate_Tiny_01T.png</ThumbnailOverride>
+    <ThumbnailOverride>Pirate_Bomber_01T.png</ThumbnailOverride>
     <ShipRule>FavorMissile</ShipRule>
-    <ShipDesign>Pirate_Tiny_01T</ShipDesign>
+    <ShipDesign>Pirate_Bomber_01T</ShipDesign>
     <AIOnly>true</AIOnly>
     <AIShipClass>Assault</AIShipClass>
     <StrategicIcon>Bomber</StrategicIcon>
@@ -13245,9 +13380,9 @@ xsi:noNamespaceSchemaLocation="../Schema/ShipClassDefs.xsd">
     <InternalName>TutorialPirateStartingGuardian</InternalName>
     <DisplayName>TutorialPirateStartingGuardian_Class_Name</DisplayName>
     <Description>TutorialPirateStartingGuardian_Dec</Description>
-    <ThumbnailOverride>Pirate_Tiny_02T.png</ThumbnailOverride>
+    <ThumbnailOverride>Pirate_Guardian_01T.png</ThumbnailOverride>
     <ShipRule>FavorKinetic</ShipRule>
-    <ShipDesign>Pirate_Tiny_02T</ShipDesign>
+    <ShipDesign>Pirate_Guardian_01T</ShipDesign>
     <AIShipClass>Assault</AIShipClass>
     <StrategicIcon>Guardian</StrategicIcon>
     <StaticBlueprintDef>TutorialSniperStaticBlueprint</StaticBlueprintDef>
@@ -13273,9 +13408,9 @@ xsi:noNamespaceSchemaLocation="../Schema/ShipClassDefs.xsd">
     <InternalName>PirateStartingSniper</InternalName>
     <DisplayName>PirateStartingSniper_Class_Name</DisplayName>
     <Description>PirateStartingSniper_Dec</Description>
-    <ThumbnailOverride>Pirate_Tiny_01T.png</ThumbnailOverride>
+    <ThumbnailOverride>Pirate_Sniper_01T.png</ThumbnailOverride>
     <ShipRule>FavorBeam</ShipRule>
-    <ShipDesign>Pirate_Tiny_01T</ShipDesign>
+    <ShipDesign>Pirate_Sniper_01T</ShipDesign>
     <AIShipClass>Assault</AIShipClass>
     <StrategicIcon>Sniper</StrategicIcon>
     <StaticBlueprintDef>PirateStarterSniperStaticBlueprint</StaticBlueprintDef>
@@ -13287,9 +13422,9 @@ xsi:noNamespaceSchemaLocation="../Schema/ShipClassDefs.xsd">
     <InternalName>PirateStartingBomber</InternalName>
     <DisplayName>PirateStartingBomber_Class_Name</DisplayName>
     <Description>PirateStartingBomber_Dec</Description>
-    <ThumbnailOverride>Pirate_Tiny_02T.png</ThumbnailOverride>
+    <ThumbnailOverride>Pirate_Bomber_01T.png</ThumbnailOverride>
     <ShipRule>FavorMissile</ShipRule>
-    <ShipDesign>Pirate_Tiny_02T</ShipDesign>
+    <ShipDesign>Pirate_Bomber_01T</ShipDesign>
     <AIOnly>true</AIOnly>
     <AIShipClass>Assault</AIShipClass>
     <StrategicIcon>Bomber</StrategicIcon>
